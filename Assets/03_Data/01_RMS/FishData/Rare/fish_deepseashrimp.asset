@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_deepseashrimp
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_deepseashrimp
+  _displayName: "\uC2EC\uD574\uC0C8\uC6B0"
+  _icon: {fileID: -1505239803, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  _description: "\uC554\uD751\uBFD0\uC778 \uC2EC\uD574\uC5D0\uC11C \uC0B4\uC544\uB0A8\uC740
+    \uBD88\uAF43\uC758 \uB9C8\uC220\uC0AC! \uD3EC\uC2DD\uC790\uAC00 \uB098\uD0C0\uB098\uBA74
+    \uC785\uC5D0\uC11C \uBE5B\uC774 \uB098\uB294 \uC561\uCCB4\uB97C \uBFDC\uC5B4
+    \uB208\uC744 \uBA40\uAC8C \uB9CC\uB4E4\uACE0 \uC5F0\uB9C9\uD0C4\uCC98\uB7FC \uB3C4\uB9DD\uCE58\uB294
+    \uC57C\uAD11 \uC0DD\uC874\uAC00\uC785\uB2C8\uB2E4."
+  _rarity: 1
+  _allowedStageIds: []
+  _spawnWeight: 5
+  _manualDifficulty: 0.7
+  _sellPriceGold: 1200
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

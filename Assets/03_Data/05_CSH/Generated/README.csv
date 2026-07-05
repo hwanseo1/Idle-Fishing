@@ -1,0 +1,18 @@
+key,value,notes
+purpose,FISHER local runtime table snapshot,"Unity runtime loads generated CSV snapshots. Panels are MVP consumers of these tables."
+branch_scope,/main/Main_For_Develop/csh,Current user branch scope for Fisher runtime/table work.
+unity_script_scope,Assets/01_Scripts/05_CSH,"User-owned script scope. Keep domain names Fisher/Inventory/Cooking/Shop/Catalog where possible."
+unity_data_scope,Assets/03_Data/05_CSH,Generated CSV snapshots should land here.
+unity_scene_scope,Assets/00_Scenes/05_CSH.unity,Scene changes are limited to this sandbox scene unless explicitly approved.
+source_sheet,https://docs.google.com/spreadsheets/d/1lTohKD6Y23GRs5tShXr0T9akzi_-kZRVbOmz7uaI3J0/edit?usp=sharing,Use this as the data source before replacing generated CSV snapshots.
+sync_flow,Google Sheet -> reviewed CSV/JSON -> Unity Catalog -> Services -> UI,Generated files are not the final source of truth.
+reward_table_contract,collection_rewards,"Runtime contract stays collection_rewards. Rename the Sheet tab to match this or export/map it explicitly."
+fixture_layer,team_fixture_v0_runtime_subset,"Local Generated CSV now carries reviewed Team Fixture v0 rows that current runtime can read."
+star_runtime_policy,"target=itemId+grade+count; current_export=itemId+count subset",Fish table carries grade rows while inventory remains species stack until contract expansion.
+integration_id_policy,id_bindings_sheet_only,"External/team/server IDs stay in Sheet id_bindings until FisherPlayerDataBridge is implemented."
+primary_runtime_state,"InventoryEntry(itemId,count,optional instanceId,optional levelIndex)",Stack items use count. Unique/leveled items use per-instance identity.
+instance_item_scope,deferred,"Do not add Special/equipment instance rows until the table source has real design intent."
+date_created,2026-06-05,Created for FISHER local demo scope.
+mvp_panel_scope,"bag,cooking,shop",Keep panels thin and data-driven before deep UI polish.
+edit_rule,Do not rename headers without updating Unity validator/importer.,Header stability is the contract.
+export_rule,Each data tab should be exportable as CSV by gid after source sheet cleanup.,Generated files are build inputs and should be reviewable.

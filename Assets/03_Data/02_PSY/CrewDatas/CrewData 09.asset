@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94b5e3025427f4f8cb7aa212078704, type: 3}
+  m_Name: CrewData 09
+  m_EditorClassIdentifier: Assembly-CSharp::Crew.CrewData
+  CrewId: Crew_Master_Angler
+  CrewName: "\uAC15\uD0DC\uACF5"
+  CrewGrade: 2
+  CrewSprite: {fileID: -1641489175, guid: c91e724fd87b51c46ba04dddabdc25e9, type: 3}
+  CrewPrefab: {fileID: 7620041800459552439, guid: 28d621c06a609d746a1f528b943ddebe, type: 3}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 755ddab2349e96c4ea6a063cd9b3dfb1, type: 3}
+  m_Name: 2-5
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.StageData
+  _stageId: 2-5
+  _displayName: "\uAE4A\uC740 \uBB3C\uBAA9 2-5"
+  _isBossStage: 0
+  _bossData: {fileID: 0}
+  _fishEntries:
+  - fishData: {fileID: 11400000, guid: d13c4930e62efea439a7569d62d00fd7, type: 2}
+    spawnWeight: 4
+  - fishData: {fileID: 11400000, guid: e7ca725ae80683440901aac7023305ac, type: 2}
+    spawnWeight: 3
+  - fishData: {fileID: 11400000, guid: 8f8f5a6d2c4afa54c85135b157f0aa0e, type: 2}
+    spawnWeight: 2
+  - fishData: {fileID: 11400000, guid: e07fd1d1d3635a640b56b2e7b054e7c0, type: 2}
+    spawnWeight: 1
+  - fishData: {fileID: 11400000, guid: 4821cea8fcff7aa459fe57f1922a8740, type: 2}
+    spawnWeight: 1
+  - fishData: {fileID: 11400000, guid: c3397d6111b76bc44a9210f6c75f8dd6, type: 2}
+    spawnWeight: 1
+  _rarityWeights:
+  - rarity: 0
+    weight: 42
+  - rarity: 1
+    weight: 36
+  - rarity: 2
+    weight: 16
+  - rarity: 3
+    weight: 6
+  _clearContributionThreshold: 120
+  _nextStage: {fileID: 11400000, guid: 7bea4b759314d25449099876f6e355ae, type: 2}

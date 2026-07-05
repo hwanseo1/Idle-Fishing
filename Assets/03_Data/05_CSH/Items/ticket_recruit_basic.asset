@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8afbcc4151d48b39d61361589479e47, type: 3}
+  m_Name: ticket_recruit_basic
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.ItemData
+  _itemId: ticket_recruit_basic
+  _displayName: "\uBAA8\uC9D1 \uD2F0\uCF13"
+  _icon: {fileID: 21300000, guid: d32e2c3af9dc76345a214dae4517a942, type: 3}
+  _description: "\uC120\uC6D0 \uBAA8\uC9D1 \uAE30\uBCF8\uAD8C\uC785\uB2C8\uB2E4.
+    \uACE8\uB4DC \uBAA8\uC9D1\uC740 \uC120\uC6D0\uBCC4 \uC870\uAC01 \uC911\uC2EC\uC774\uACE0
+    \uD504\uB9AC\uBBF8\uC5C4 \uBAA8\uC9D1\uC740 \uC644\uC131 \uC120\uC6D0 \uC911\uC2EC\uC73C\uB85C
+    \uBD84\uB9AC\uD569\uB2C8\uB2E4."
+  _category: 2
+  _rarity: 1
+  _sourceType: Recruit
+  _stackable: 1
+  _maxStack: 99
+  _sellPriceGold: 0
+  _sample: 0
+  _enabled: 1

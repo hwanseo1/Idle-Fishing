@@ -1,0 +1,4 @@
+grade,duplicateFragmentAmount,fragmentIdPattern,isEnabled,applyMode,sourceSheet,sourceRange,sourceKey,precision,sourceHash,notes
+R,70,fragment_{CrewId},TRUE,apply,10_GachaProbability,,CrewGrade.R,1,,duplicate R crew converts to fragments
+SR,90,fragment_{CrewId},TRUE,apply,10_GachaProbability,,CrewGrade.SR,1,,duplicate SR crew converts to fragments
+SSR,120,fragment_{CrewId},TRUE,apply,10_GachaProbability,,CrewGrade.SSR,1,,duplicate SSR crew converts to fragments

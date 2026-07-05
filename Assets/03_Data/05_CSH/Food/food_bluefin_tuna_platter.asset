@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1505825e01ed23d4aaed856bf32ac872, type: 3}
+  m_Name: food_bluefin_tuna_platter
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.FoodData
+  _foodId: food_bluefin_tuna_platter
+  _displayNameKo: "\uCC38\uB2E4\uB791\uC5B4 \uD55C\uC0C1"
+  _itemData: {fileID: 11400000, guid: 047925138ca5c4d449489192b1d0b631, type: 2}
+  _enabled: 0
+  _sellable: 0
+  _sellGold: 0
+  _category: Food
+  _sourceType: Cooking
+  _cookTag: meal
+  _crewExp: 80

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ebc260c4ca0f2439724e15727b2e07, type: 3}
+  m_Name: boat_penguin
+  m_EditorClassIdentifier: Assembly-CSharp::JHS.Equipment.EquipmentData
+  type: 1
+  id: boat_penguin
+  displayName: "\uD3AD\uADC4"
+  description: 
+  icon: {fileID: 0}
+  levels: []
+  boatSkills:
+  - skill: 2
+    id: boat_penguin
+    displayName: "\uD3AD\uADC4"
+    description: "\uB2E4\uC74C \uC2A4\uD14C\uC774\uC9C0 \uBB3C\uACE0\uAE30 \uC9C0\uAE09"
+    icon: {fileID: 21300000, guid: 268eef2bec1dbef41b4afddcf6ee8b4f, type: 3}
+    unlocked: 0
+    unlockCostGold: 600
+    cooldown: 60
+    duration: 0
+    levels:
+    - value: 1
+      upgradeCostGold: 200
+      materialCosts:
+      - materialId: mat_upgrade_common
+        count: 2
+    - value: 2
+      upgradeCostGold: 400
+      materialCosts:
+      - materialId: mat_upgrade_common
+        count: 4
+    - value: 3
+      upgradeCostGold: 0
+      materialCosts: []

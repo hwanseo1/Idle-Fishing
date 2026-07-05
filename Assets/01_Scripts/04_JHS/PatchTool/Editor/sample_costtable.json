@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "equip_rod",    "levels": [ { "gold": 100 }, { "gold": 250 }, { "gold": 600 } ] },
+    { "id": "equip_float",  "levels": [ { "gold": 80 },  { "gold": 200 } ] },
+    { "id": "boat_vacuum",  "levels": [ { "gold": 500 }, { "gold": 1200 } ] }
+  ]
+}

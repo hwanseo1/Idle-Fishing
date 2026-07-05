@@ -1,0 +1,172 @@
+{
+  "food_bluefin_tuna_platter": {
+    "displayNameKo": "참다랑어 한상",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 80
+  },
+  "food_coelacanth_greatwhite_feast": {
+    "displayNameKo": "실러캔스 백상아리 만찬",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 4560,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 220
+  },
+  "food_croaker_octopus_grill": {
+    "displayNameKo": "조기 낙지구이",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 590,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 26
+  },
+  "food_cuttlefish_amberjack_hotpot": {
+    "displayNameKo": "갑오징어 부시리 전골",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1610,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 75
+  },
+  "food_deepsea_manta_curry": {
+    "displayNameKo": "심해새우 만타 카레",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 2130,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 95
+  },
+  "food_flatfish_soup": {
+    "displayNameKo": "광어탕",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 425,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 12
+  },
+  "food_giant_squid_dragonfish_feast": {
+    "displayNameKo": "대왕오징어 드래곤피시 만찬",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 360
+  },
+  "food_grilled_anchovy": {
+    "displayNameKo": "멸치구이",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 105,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 5
+  },
+  "food_grilled_mackerel": {
+    "displayNameKo": "고등어구이",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 125,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 6
+  },
+  "food_hairtail_grill": {
+    "displayNameKo": "갈치구이",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 385,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 14
+  },
+  "food_moray_scorpion_soup": {
+    "displayNameKo": "곰치쏨뱅이탕",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 565,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 24
+  },
+  "food_oarfish_kingcrab_roast": {
+    "displayNameKo": "산갈치 킹크랩구이",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1640,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 70
+  },
+  "food_rockfish_stew": {
+    "displayNameKo": "볼락매운탕",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 280,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 16
+  },
+  "food_saury_stew": {
+    "displayNameKo": "꽁치조림",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 105,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 4
+  },
+  "food_sunfish_steak": {
+    "displayNameKo": "개복치스테이크",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1520,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 80
+  },
+  "food_swordfish_platter": {
+    "displayNameKo": "황새치 한상",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 3070,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 160
+  },
+  "food_yellowtail_sashimi": {
+    "displayNameKo": "방어회",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1010,
+    "category": "Food",
+    "sourceType": "Cooking",
+    "cookTag": "meal",
+    "crewExp": 45
+  }
+}

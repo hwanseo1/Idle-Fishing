@@ -1,0 +1,272 @@
+{
+  "fish_amberjack": {
+    "displayNameKo": "부시리",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1400,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_premium"
+  },
+  "fish_anchovy": {
+    "displayNameKo": "멸치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 50,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_small"
+  },
+  "fish_bluefinTuna": {
+    "displayNameKo": "참다랑어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1200,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_premium"
+  },
+  "fish_coelacanth": {
+    "displayNameKo": "실러캔스",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 2800,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_deepsea"
+  },
+  "fish_croaker": {
+    "displayNameKo": "조기",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 200,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_medium"
+  },
+  "fish_cuttlefish": {
+    "displayNameKo": "갑오징어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 720,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_squid"
+  },
+  "fish_deepseashrimp": {
+    "displayNameKo": "심해새우",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1200,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_crustacean"
+  },
+  "fish_dragonfish": {
+    "displayNameKo": "드래곤피시",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 6000,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_legendary"
+  },
+  "fish_filefish": {
+    "displayNameKo": "쥐치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 170,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_small"
+  },
+  "fish_flatfish": {
+    "displayNameKo": "광어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 450,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_flat"
+  },
+  "fish_giant_squid": {
+    "displayNameKo": "대왕오징어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 3800,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_squid"
+  },
+  "fish_greatwhite": {
+    "displayNameKo": "백상아리",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 3200,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_premium"
+  },
+  "fish_hairtail": {
+    "displayNameKo": "갈치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 380,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_long"
+  },
+  "fish_kingcrab": {
+    "displayNameKo": "킹크랩",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1100,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_crab"
+  },
+  "fish_mackerel": {
+    "displayNameKo": "고등어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 90,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_medium"
+  },
+  "fish_manta": {
+    "displayNameKo": "만타가오리",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1400,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_large"
+  },
+  "fish_moray": {
+    "displayNameKo": "곰치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 300,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_deepsea"
+  },
+  "fish_oarfish": {
+    "displayNameKo": "산갈치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 900,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_long"
+  },
+  "fish_octopus": {
+    "displayNameKo": "낙지",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 520,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_octopus"
+  },
+  "fish_pollock": {
+    "displayNameKo": "생태",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 320,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_medium"
+  },
+  "fish_puffer": {
+    "displayNameKo": "복어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 950,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_premium"
+  },
+  "fish_rockfish": {
+    "displayNameKo": "볼락",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 150,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_rock"
+  },
+  "fish_saury": {
+    "displayNameKo": "꽁치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 70,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_small"
+  },
+  "fish_scorpionfish": {
+    "displayNameKo": "쏨뱅이",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 340,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_rock"
+  },
+  "fish_seabass": {
+    "displayNameKo": "농어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 650,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_medium"
+  },
+  "fish_snapper": {
+    "displayNameKo": "참돔",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 880,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_premium"
+  },
+  "fish_squid": {
+    "displayNameKo": "오징어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 280,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_squid"
+  },
+  "fish_sunfish": {
+    "displayNameKo": "개복치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 1800,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_large"
+  },
+  "fish_swordfish": {
+    "displayNameKo": "황새치",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 3500,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_legendary"
+  },
+  "fish_yellowtail": {
+    "displayNameKo": "방어",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 580,
+    "category": "Fish",
+    "sourceType": "Fishing",
+    "cookTag": "fish_premium"
+  }
+}

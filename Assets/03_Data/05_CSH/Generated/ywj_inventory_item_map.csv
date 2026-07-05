@@ -1,0 +1,76 @@
+legacyIntId,itemId,serverId,itemCategory,owner,isRuntimeLinked,isEnabled,notes
+1001,fish_anchovy,fish_anchovy,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1002,fish_mackerel,fish_mackerel,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1003,fish_flatfish,fish_flatfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1004,fish_hairtail,fish_hairtail,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1005,fish_saury,fish_saury,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1006,fish_squid,fish_squid,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1007,fish_pollock,fish_pollock,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1008,fish_snapper,fish_snapper,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1009,fish_bluefinTuna,fish_bluefinTuna,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1010,fish_puffer,fish_puffer,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1011,fish_rockfish,fish_rockfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1012,fish_filefish,fish_filefish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1013,fish_croaker,fish_croaker,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1014,fish_octopus,fish_octopus,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1015,fish_yellowtail,fish_yellowtail,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1016,fish_seabass,fish_seabass,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1017,fish_cuttlefish,fish_cuttlefish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1018,fish_amberjack,fish_amberjack,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1019,fish_sunfish,fish_sunfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1020,fish_swordfish,fish_swordfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1021,fish_moray,fish_moray,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1022,fish_scorpionfish,fish_scorpionfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1023,fish_oarfish,fish_oarfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1024,fish_kingcrab,fish_kingcrab,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1025,fish_deepseashrimp,fish_deepseashrimp,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1026,fish_manta,fish_manta,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1027,fish_coelacanth,fish_coelacanth,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1028,fish_greatwhite,fish_greatwhite,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1029,fish_giant_squid,fish_giant_squid,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+1030,fish_dragonfish,fish_dragonfish,Fish,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+3004,mat_upgrade_common,mat_upgrade_common,UpgradeMaterial,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 기초 강화재료 매핑입니다.
+3006,mat_upgrade_sturdy,mat_upgrade_sturdy,UpgradeMaterial,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 중반 강화재료 매핑입니다.
+3007,mat_upgrade_refined,mat_upgrade_refined,UpgradeMaterial,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 후반 강화재료 매핑입니다.
+3005,mat_high_grade_core,mat_high_grade_core,HighGradeMaterial,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 고급 코어 매핑입니다.
+5001,food_grilled_anchovy,food_grilled_anchovy,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5002,food_grilled_mackerel,food_grilled_mackerel,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5003,food_flatfish_soup,food_flatfish_soup,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5004,food_hairtail_grill,food_hairtail_grill,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5005,food_saury_stew,food_saury_stew,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5006,food_bluefin_tuna_platter,food_bluefin_tuna_platter,Food,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+5007,food_rockfish_stew,food_rockfish_stew,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5008,food_croaker_octopus_grill,food_croaker_octopus_grill,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5009,food_yellowtail_sashimi,food_yellowtail_sashimi,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5010,food_cuttlefish_amberjack_hotpot,food_cuttlefish_amberjack_hotpot,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5011,food_sunfish_steak,food_sunfish_steak,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5012,food_swordfish_platter,food_swordfish_platter,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5013,food_moray_scorpion_soup,food_moray_scorpion_soup,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5014,food_oarfish_kingcrab_roast,food_oarfish_kingcrab_roast,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5015,food_deepsea_manta_curry,food_deepsea_manta_curry,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5016,food_coelacanth_greatwhite_feast,food_coelacanth_greatwhite_feast,Food,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+5017,food_giant_squid_dragonfish_feast,food_giant_squid_dragonfish_feast,Food,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+7001,ticket_basic,ticket_basic,Ticket,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+7002,ticket_speedup_10m,ticket_speedup_10m,Ticket,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+7003,ticket_instant_complete,ticket_instant_complete,Ticket,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+7004,ticket_recruit_basic,ticket_recruit_basic,Ticket,YWJ_PlayerData,FALSE,TRUE,선원 모집 기본권으로 사용할 itemId 매핑입니다. 골드 모집과 프리미엄 모집 진입점은 분리합니다.
+7005,ticket_crew_fragment_basic,ticket_crew_fragment_basic,Ticket,YWJ_PlayerData,FALSE,FALSE,공용 선원 조각 후보 매핑입니다. 골드 모집 기본 보상은 fragment_Crew_* 선원별 조각을 사용합니다.
+7006,ticket_recruit_premium,ticket_recruit_premium,Ticket,YWJ_PlayerData,FALSE,TRUE,진주 모집 1회권으로 사용할 고급 모집권 임시 매핑입니다.
+7010,fragment_Crew_Navigator_Jun,fragment_Crew_Navigator_Jun,Ticket,YWJ_PlayerData,FALSE,TRUE,항해사 준 선원별 조각입니다. 30개 교환 시 Crew_Navigator_Jun 지급 루트로 연결합니다.
+7011,fragment_Crew_Captain_Max,fragment_Crew_Captain_Max,Ticket,YWJ_PlayerData,FALSE,TRUE,대장 맥스 선원별 조각입니다. 30개 교환 시 Crew_Captain_Max 지급 루트로 연결합니다.
+7012,fragment_Crew_Dasol,fragment_Crew_Dasol,Ticket,YWJ_PlayerData,FALSE,TRUE,다솔 선원별 조각입니다. 30개 교환 시 Crew_Dasol 지급 루트로 연결합니다.
+7013,fragment_Crew_Rookie_Sailor,fragment_Crew_Rookie_Sailor,Ticket,YWJ_PlayerData,FALSE,TRUE,초보 선원 선원별 조각입니다. 30개 교환 시 Crew_Rookie_Sailor 지급 루트로 연결합니다.
+7014,fragment_Crew_Veteran_Angler,fragment_Crew_Veteran_Angler,Ticket,YWJ_PlayerData,FALSE,TRUE,노련한 낚시꾼 선원별 조각입니다. 60개 교환 시 Crew_Veteran_Angler 지급 루트로 연결합니다.
+7015,fragment_Crew_Chef_Lin,fragment_Crew_Chef_Lin,Ticket,YWJ_PlayerData,FALSE,TRUE,요리사 린 선원별 조각입니다. 60개 교환 시 Crew_Chef_Lin 지급 루트로 연결합니다.
+7016,fragment_Crew_Veteran_Navigator,fragment_Crew_Veteran_Navigator,Ticket,YWJ_PlayerData,FALSE,TRUE,베테랑 항해사 선원별 조각입니다. 60개 교환 시 Crew_Veteran_Navigator 지급 루트로 연결합니다.
+7017,fragment_Crew_OldMan_And_Sea,fragment_Crew_OldMan_And_Sea,Ticket,YWJ_PlayerData,FALSE,TRUE,노인과 바다 선원별 조각입니다. 120개 교환 후보이며 골드 모집 기본 풀에서는 제외합니다.
+7018,fragment_Crew_Moby_Dick,fragment_Crew_Moby_Dick,Ticket,YWJ_PlayerData,FALSE,TRUE,모비 딕 선원별 조각입니다. 120개 교환 후보이며 골드 모집 기본 풀에서는 제외합니다.
+7019,fragment_Crew_Master_Angler,fragment_Crew_Master_Angler,Ticket,YWJ_PlayerData,FALSE,TRUE,강태공 선원별 조각입니다. 120개 교환 후보이며 골드 모집 기본 풀에서는 제외합니다.
+8001,box_basic_reward,box_basic_reward,Box,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+8002,ticket_choice_basic,ticket_choice_basic,Ticket,YWJ_PlayerData,FALSE,FALSE,선택권은 Ticket 카테고리로 통합한 비활성 후보 매핑입니다.
+8003,box_starter_cooking_pack,box_starter_cooking_pack,Box,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+8004,box_boat_upgrade_pack,box_boat_upgrade_pack,Box,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+8005,box_stage3_push_pack,box_stage3_push_pack,Box,YWJ_PlayerData,FALSE,FALSE,향후 서버 선등록을 위한 비활성 후보 매핑입니다.
+9001,boat_vacuum,boat_vacuum,Boat,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+9002,boat_lamp,boat_lamp,Boat,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.
+9003,boat_penguin,boat_penguin,Boat,YWJ_PlayerData,FALSE,TRUE,현재 PlayFab 공통 ID 계약에 맞춘 itemId 매핑입니다.

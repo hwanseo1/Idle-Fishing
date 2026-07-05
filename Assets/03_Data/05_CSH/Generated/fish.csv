@@ -1,0 +1,91 @@
+fishId,itemId,grade,minSizeCm,maxSizeCm,baseWeight,baseExp,dropGroup,isBoss,isEnabled,notes
+fish_anchovy_g1,fish_anchovy,1,5,12,100,3,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_anchovy_g2,fish_anchovy,2,7,15,35,6,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_anchovy_g3,fish_anchovy,3,10,18,8,11,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_mackerel_g1,fish_mackerel,1,18,32,85,4,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_mackerel_g2,fish_mackerel,2,24,40,28,8,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_mackerel_g3,fish_mackerel,3,30,48,7,14,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_flatfish_g1,fish_flatfish,1,25,45,60,7,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_flatfish_g2,fish_flatfish,2,32,58,22,14,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_flatfish_g3,fish_flatfish,3,42,75,6,25,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_hairtail_g1,fish_hairtail,1,30,55,55,7,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_hairtail_g2,fish_hairtail,2,42,70,20,14,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_hairtail_g3,fish_hairtail,3,55,90,5,25,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_saury_g1,fish_saury,1,16,28,110,2,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_saury_g2,fish_saury,2,22,36,40,4,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_saury_g3,fish_saury,3,28,45,10,8,shore_common,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_squid_g1,fish_squid,1,20,35,70,6,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_squid_g2,fish_squid,2,28,48,24,12,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_squid_g3,fish_squid,3,38,65,7,21,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_pollock_g1,fish_pollock,1,22,38,65,6,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_pollock_g2,fish_pollock,2,30,50,22,12,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_pollock_g3,fish_pollock,3,40,68,6,21,shore_uncommon,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_snapper_g1,fish_snapper,1,30,55,35,10,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_snapper_g2,fish_snapper,2,45,75,12,20,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_snapper_g3,fish_snapper,3,60,95,3,35,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_bluefinTuna_g1,fish_bluefinTuna,1,80,140,30,12,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_bluefinTuna_g2,fish_bluefinTuna,2,120,200,10,24,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_bluefinTuna_g3,fish_bluefinTuna,3,160,260,2,40,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_puffer_g1,fish_puffer,1,20,35,28,12,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_puffer_g2,fish_puffer,2,28,48,9,24,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_puffer_g3,fish_puffer,3,38,65,2,40,shore_epic,FALSE,TRUE,등급별 크기와 경험치 기준입니다. 신규 희귀도 구조와 함께 재검증이 필요합니다.
+fish_rockfish_g1,fish_rockfish,1,20,28,90,5,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_rockfish_g2,fish_rockfish,2,24,34,30,10,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_rockfish_g3,fish_rockfish,3,29,38,8,18,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_filefish_g1,fish_filefish,1,15,23,90,5,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_filefish_g2,fish_filefish,2,19,28,30,10,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_filefish_g3,fish_filefish,3,23,32,8,18,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_croaker_g1,fish_croaker,1,24,35,90,5,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_croaker_g2,fish_croaker,2,30,42,30,10,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_croaker_g3,fish_croaker,3,36,48,8,18,region2_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_octopus_g1,fish_octopus,1,40,60,65,8,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_octopus_g2,fish_octopus,2,51,74,22,16,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_octopus_g3,fish_octopus,3,62,85,6,28,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_yellowtail_g1,fish_yellowtail,1,60,85,65,8,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_yellowtail_g2,fish_yellowtail,2,74,101,22,16,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_yellowtail_g3,fish_yellowtail,3,88,115,6,28,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_seabass_g1,fish_seabass,1,50,70,65,8,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_seabass_g2,fish_seabass,2,61,84,22,16,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_seabass_g3,fish_seabass,3,72,95,6,28,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_cuttlefish_g1,fish_cuttlefish,1,30,44,65,8,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_cuttlefish_g2,fish_cuttlefish,2,38,54,22,16,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_cuttlefish_g3,fish_cuttlefish,3,46,62,6,28,region2_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_amberjack_g1,fish_amberjack,1,75,102,35,14,region2_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_amberjack_g2,fish_amberjack,2,90,120,11,28,region2_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_amberjack_g3,fish_amberjack,3,105,135,3,48,region2_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_sunfish_g1,fish_sunfish,1,110,160,35,14,region2_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_sunfish_g2,fish_sunfish,2,138,192,11,28,region2_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_sunfish_g3,fish_sunfish,3,165,220,3,48,region2_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_swordfish_g1,fish_swordfish,1,160,232,14,25,region2_legendary,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_swordfish_g2,fish_swordfish,2,200,280,4,50,region2_legendary,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_swordfish_g3,fish_swordfish,3,240,320,1,85,region2_legendary,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_moray_g1,fish_moray,1,75,109,90,5,region3_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_moray_g2,fish_moray,2,94,131,30,10,region3_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_moray_g3,fish_moray,3,113,150,8,18,region3_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_scorpionfish_g1,fish_scorpionfish,1,18,27,90,5,region3_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_scorpionfish_g2,fish_scorpionfish,2,23,33,30,10,region3_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_scorpionfish_g3,fish_scorpionfish,3,28,38,8,18,region3_common,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_oarfish_g1,fish_oarfish,1,200,299,65,8,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_oarfish_g2,fish_oarfish,2,255,365,22,16,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_oarfish_g3,fish_oarfish,3,310,420,6,28,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_kingcrab_g1,fish_kingcrab,1,35,53,65,8,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_kingcrab_g2,fish_kingcrab,2,45,65,22,16,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_kingcrab_g3,fish_kingcrab,3,55,75,6,28,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_deepseashrimp_g1,fish_deepseashrimp,1,10,17,65,8,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_deepseashrimp_g2,fish_deepseashrimp,2,14,22,22,16,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_deepseashrimp_g3,fish_deepseashrimp,3,18,26,6,28,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_manta_g1,fish_manta,1,150,244,65,8,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_manta_g2,fish_manta,2,202,308,22,16,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_manta_g3,fish_manta,3,255,360,6,28,region3_uncommon,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_coelacanth_g1,fish_coelacanth,1,120,170,35,14,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_coelacanth_g2,fish_coelacanth,2,148,202,11,28,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_coelacanth_g3,fish_coelacanth,3,175,230,3,48,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_greatwhite_g1,fish_greatwhite,1,250,372,35,14,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_greatwhite_g2,fish_greatwhite,2,318,452,11,28,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_greatwhite_g3,fish_greatwhite,3,385,520,3,48,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_giant_squid_g1,fish_giant_squid,1,300,458,35,14,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_giant_squid_g2,fish_giant_squid,2,388,562,11,28,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_giant_squid_g3,fish_giant_squid,3,475,650,3,48,region3_epic,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_dragonfish_g1,fish_dragonfish,1,25,43,14,25,region3_legendary,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_dragonfish_g2,fish_dragonfish,2,35,55,4,50,region3_legendary,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.
+fish_dragonfish_g3,fish_dragonfish,3,45,65,1,85,region3_legendary,FALSE,TRUE,FishData에는 크기값이 없어 CSV 검증용 추정값으로 둔 행입니다.

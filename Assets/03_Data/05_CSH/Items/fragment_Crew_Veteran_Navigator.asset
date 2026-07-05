@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8afbcc4151d48b39d61361589479e47, type: 3}
+  m_Name: fragment_Crew_Veteran_Navigator
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.ItemData
+  _itemId: fragment_Crew_Veteran_Navigator
+  _displayName: "\uBCA0\uD14C\uB791 \uD56D\uD574\uC0AC \uC870\uAC01"
+  _icon: {fileID: 21300000, guid: 0e103ede6a154f5692fcec06ceea65d3, type: 3}
+  _description: "\uACE8\uB4DC \uBAA8\uC9D1 SR \uB4F1\uAE09 \uC870\uAC01 \uD6C4\uBCF4\uC785\uB2C8\uB2E4.
+    60\uAC1C\uB97C \uBAA8\uC73C\uBA74 Crew_Veteran_Navigator \uC9C0\uAE09 \uB8E8\uD2B8\uB85C
+    \uC5F0\uACB0\uD569\uB2C8\uB2E4."
+  _category: 2
+  _rarity: 1
+  _sourceType: Recruit
+  _stackable: 1
+  _maxStack: 999
+  _sellPriceGold: 0
+  _sample: 0
+  _enabled: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f787d56f64744b8cb79d08f57faff26c, type: 3}
+  m_Name: recipe_hairtail_grill_g2
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.RecipeData
+  _recipeId: recipe_hairtail_grill_g2
+  _displayName: "\uAC08\uCE58\uAD6C\uC774"
+  _icon: {fileID: -1883751847, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  _description: "\uC2A4\uD14C\uC774\uC9C02 \uC9C4\uC785 \uD6C4 \uC131\uC7A5 \uC120\uD0DD\uC744
+    \uB9CC\uB4DC\uB294 \uB808\uC2DC\uD53C\uC785\uB2C8\uB2E4."
+  _fishIngredients:
+  - _fishData: {fileID: 11400000, guid: 1e4bf3ad68b9b734783ef7501dae5996, type: 2}
+    _count: 1
+  - _fishData: {fileID: 11400000, guid: 0492b3a01a8c29e4daeb10b80dbeea74, type: 2}
+    _count: 1
+  _outputItem: {fileID: 11400000, guid: 133cc5d3757acba46a0d92e1df67a2f1, type: 2}
+  _outputCount: 1
+  _durationSeconds: 300
+  _crewExp: 14
+  _maxQueueCount: 99
+  _sample: 0
+  _enabled: 1

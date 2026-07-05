@@ -1,0 +1,42 @@
+{
+  "Boat": {
+    "defaultMaxStack": 1,
+    "overflowPolicy": "require_instance",
+    "enabled": true
+  },
+  "Box": {
+    "defaultMaxStack": 99,
+    "overflowPolicy": "split_stack",
+    "enabled": true
+  },
+  "Fish": {
+    "defaultMaxStack": 999,
+    "overflowPolicy": "split_stack",
+    "enabled": true
+  },
+  "Food": {
+    "defaultMaxStack": 99,
+    "overflowPolicy": "split_stack",
+    "enabled": true
+  },
+  "HighGradeMaterial": {
+    "defaultMaxStack": 999,
+    "overflowPolicy": "split_stack",
+    "enabled": true
+  },
+  "Special": {
+    "defaultMaxStack": 1,
+    "overflowPolicy": "require_instance",
+    "enabled": true
+  },
+  "Ticket": {
+    "defaultMaxStack": 99,
+    "overflowPolicy": "split_stack",
+    "enabled": true
+  },
+  "UpgradeMaterial": {
+    "defaultMaxStack": 999,
+    "overflowPolicy": "split_stack",
+    "enabled": true
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "recipe_bluefin_tuna_platter": {
+    "enabled": false,
+    "durationSec": 1200,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_bluefinTuna",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_flatfish",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_bluefin_tuna_platter",
+      "amount": 2
+    },
+    "crewExp": 80,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_coelacanth_greatwhite_feast_g3": {
+    "enabled": true,
+    "durationSec": 1800,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_coelacanth",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_greatwhite",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_coelacanth_greatwhite_feast",
+      "amount": 1
+    },
+    "crewExp": 220,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_croaker_octopus_grill_g2": {
+    "enabled": true,
+    "durationSec": 420,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_croaker",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_octopus",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_croaker_octopus_grill",
+      "amount": 1
+    },
+    "crewExp": 26,
+    "unlockCondition": "stage>=2"
+  },
+  "recipe_cuttlefish_amberjack_hotpot_g2": {
+    "enabled": true,
+    "durationSec": 720,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_cuttlefish",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_amberjack",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_cuttlefish_amberjack_hotpot",
+      "amount": 1
+    },
+    "crewExp": 75,
+    "unlockCondition": "stage>=2"
+  },
+  "recipe_deepsea_manta_curry_g3": {
+    "enabled": true,
+    "durationSec": 1200,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_deepseashrimp",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_manta",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_deepsea_manta_curry",
+      "amount": 1
+    },
+    "crewExp": 95,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_flatfish_soup_g2": {
+    "enabled": true,
+    "durationSec": 240,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_flatfish",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_saury",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_flatfish_soup",
+      "amount": 1
+    },
+    "crewExp": 12,
+    "unlockCondition": "stage>=2"
+  },
+  "recipe_giant_squid_dragonfish_feast": {
+    "enabled": false,
+    "durationSec": 2400,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_giant_squid",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_dragonfish",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_giant_squid_dragonfish_feast",
+      "amount": 1
+    },
+    "crewExp": 360,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_grilled_anchovy_g1": {
+    "enabled": true,
+    "durationSec": 60,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_anchovy",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_saury",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_grilled_anchovy",
+      "amount": 1
+    },
+    "crewExp": 5,
+    "unlockCondition": "stage>=1"
+  },
+  "recipe_grilled_mackerel_g1": {
+    "enabled": true,
+    "durationSec": 90,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_mackerel",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_anchovy",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_grilled_mackerel",
+      "amount": 1
+    },
+    "crewExp": 6,
+    "unlockCondition": "stage>=1"
+  },
+  "recipe_hairtail_grill_g2": {
+    "enabled": true,
+    "durationSec": 300,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_hairtail",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_mackerel",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_hairtail_grill",
+      "amount": 1
+    },
+    "crewExp": 14,
+    "unlockCondition": "stage>=2"
+  },
+  "recipe_moray_scorpion_soup_g3": {
+    "enabled": true,
+    "durationSec": 600,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_moray",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_scorpionfish",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_moray_scorpion_soup",
+      "amount": 1
+    },
+    "crewExp": 24,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_oarfish_kingcrab_roast_g3": {
+    "enabled": true,
+    "durationSec": 900,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_oarfish",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_kingcrab",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_oarfish_kingcrab_roast",
+      "amount": 1
+    },
+    "crewExp": 70,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_rockfish_stew_g2": {
+    "enabled": true,
+    "durationSec": 360,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_rockfish",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_filefish",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_rockfish_stew",
+      "amount": 1
+    },
+    "crewExp": 16,
+    "unlockCondition": "stage>=2"
+  },
+  "recipe_saury_stew_g1": {
+    "enabled": true,
+    "durationSec": 75,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_saury",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_anchovy",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_saury_stew",
+      "amount": 1
+    },
+    "crewExp": 4,
+    "unlockCondition": "stage>=1"
+  },
+  "recipe_sunfish_steak_g2": {
+    "enabled": true,
+    "durationSec": 900,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_sunfish",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_croaker",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_sunfish_steak",
+      "amount": 1
+    },
+    "crewExp": 80,
+    "unlockCondition": "stage>=2"
+  },
+  "recipe_swordfish_platter_g3": {
+    "enabled": true,
+    "durationSec": 1200,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_swordfish",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_seabass",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_swordfish_platter",
+      "amount": 1
+    },
+    "crewExp": 160,
+    "unlockCondition": "stage>=3"
+  },
+  "recipe_yellowtail_sashimi_g2": {
+    "enabled": true,
+    "durationSec": 540,
+    "inputs": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_yellowtail",
+        "amount": 1
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_seabass",
+        "amount": 1
+      }
+    ],
+    "output": {
+      "inventoryKey": "FoodInventory",
+      "itemId": "food_yellowtail_sashimi",
+      "amount": 1
+    },
+    "crewExp": 45,
+    "unlockCondition": "stage>=2"
+  }
+}

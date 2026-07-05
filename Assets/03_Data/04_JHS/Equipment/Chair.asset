@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ebc260c4ca0f2439724e15727b2e07, type: 3}
+  m_Name: Chair
+  m_EditorClassIdentifier: Assembly-CSharp::JHS.Equipment.EquipmentData
+  type: 3
+  id: equip_chair
+  displayName: "\uC758\uC790"
+  description: 
+  icon: {fileID: 21300000, guid: 712b4d45a343cb44991fbc41e83b2043, type: 3}
+  levels:
+  - stats:
+    - stat: 6
+      value: 0
+    - stat: 7
+      value: 0
+    upgradeCostGold: 100
+    materialCosts:
+    - materialId: mat_upgrade_common
+      count: 2
+  - stats:
+    - stat: 6
+      value: 0.1
+    - stat: 7
+      value: 2
+    upgradeCostGold: 280
+    materialCosts:
+    - materialId: mat_upgrade_common
+      count: 4
+  - stats:
+    - stat: 6
+      value: 0.2
+    - stat: 7
+      value: 4
+    upgradeCostGold: 650
+    materialCosts:
+    - materialId: mat_upgrade_common
+      count: 6
+  - stats:
+    - stat: 6
+      value: 0.3
+    - stat: 7
+      value: 6
+    upgradeCostGold: 1400
+    materialCosts:
+    - materialId: mat_upgrade_common
+      count: 10
+  - stats:
+    - stat: 6
+      value: 0.4
+    - stat: 7
+      value: 8
+    upgradeCostGold: 0
+    materialCosts: []
+  boatSkills: []

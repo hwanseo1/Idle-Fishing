@@ -1,0 +1,65 @@
+# ===== Unity 표준 =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+sysinfo.txt
+crashlytics-build.properties
+
+# IDE / 솔루션
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+*.pidb
+
+# 빌드 산출물
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plastic SCM(Unity Version Control) 로컬 파일
+*.private.*
+
+# 로컬 에이전트 설정/스킬 (API 키를 환경변수로 읽음 — 저장소에 불필요)
+/.claude/
+
+# ===== 이 프로젝트 전용 =====
+# 대용량 리소스 — 타 팀원 아트/오디오(03_YWJ 771M 등) + 외부 에셋 팩. 코드 중심 공개.
+/Assets/04_Resources/
+/Assets/04_Resources.meta
+/Assets/05_FisherAssets/
+/Assets/05_FisherAssets.meta
+
+# 빌드/배포 산출물 · 백업
+/CCDBuildData/
+/ServerData/
+/_jhs_png_backup/
+
+# 팀 내부 문서 (기획서·설계·회의록·자료 — 팀 공용/민감 문서라 비공개)
+/기획서*.md
+/설계*
+/회의록/
+/자료/
+
+# 개인 포트폴리오 원본 노트 (팀원 모듈 버그를 이니셜로 상세 기술 — 공개 저장소 제외)
+/포트폴리오/

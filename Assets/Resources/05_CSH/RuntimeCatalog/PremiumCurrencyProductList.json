@@ -1,0 +1,23 @@
+{
+  "cash_prism_large_001": {
+    "enabled": true,
+    "cashAmount": 10000,
+    "prismPearlAmount": 1200,
+    "sortOrder": 902,
+    "notes": "내부 결제 테스트용 Cash를 소비해 Prism Pearl 1200개를 지급하는 임시 상품입니다. Cash는 UI에 표시하지 않습니다."
+  },
+  "cash_prism_medium_001": {
+    "enabled": true,
+    "cashAmount": 5000,
+    "prismPearlAmount": 550,
+    "sortOrder": 901,
+    "notes": "내부 결제 테스트용 Cash를 소비해 Prism Pearl 550개를 지급하는 임시 상품입니다. Cash는 UI에 표시하지 않습니다."
+  },
+  "cash_prism_small_001": {
+    "enabled": true,
+    "cashAmount": 1000,
+    "prismPearlAmount": 100,
+    "sortOrder": 900,
+    "notes": "내부 결제 테스트용 Cash를 소비해 Prism Pearl 100개를 지급하는 임시 상품입니다. Cash는 UI에 표시하지 않습니다."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "fragment_Crew_Captain_Max": {
+    "displayNameKo": "대장 맥스 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Chef_Lin": {
+    "displayNameKo": "요리사 린 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Dasol": {
+    "displayNameKo": "다솔 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Master_Angler": {
+    "displayNameKo": "강태공 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Moby_Dick": {
+    "displayNameKo": "모비 딕 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Navigator_Jun": {
+    "displayNameKo": "항해사 준 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_OldMan_And_Sea": {
+    "displayNameKo": "노인과 바다 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Rookie_Sailor": {
+    "displayNameKo": "초보 선원 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Veteran_Angler": {
+    "displayNameKo": "노련한 낚시꾼 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "fragment_Crew_Veteran_Navigator": {
+    "displayNameKo": "베테랑 항해사 조각",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "ticket_basic": {
+    "displayNameKo": "일반 티켓",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Codex",
+    "cookTag": "ticket"
+  },
+  "ticket_choice_basic": {
+    "displayNameKo": "선택권",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Reward",
+    "cookTag": "ticket"
+  },
+  "ticket_crew_fragment_basic": {
+    "displayNameKo": "공용 선원 조각",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "crew_fragment"
+  },
+  "ticket_instant_complete": {
+    "displayNameKo": "즉시 완료권",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "BM",
+    "cookTag": "ticket"
+  },
+  "ticket_recruit_basic": {
+    "displayNameKo": "모집 티켓",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "ticket"
+  },
+  "ticket_recruit_premium": {
+    "displayNameKo": "고급 모집권",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "Recruit",
+    "cookTag": "ticket"
+  },
+  "ticket_speedup_10m": {
+    "displayNameKo": "10분 가속권",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Ticket",
+    "sourceType": "BM",
+    "cookTag": "ticket"
+  }
+}

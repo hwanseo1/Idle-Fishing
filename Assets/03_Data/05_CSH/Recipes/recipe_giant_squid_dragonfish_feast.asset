@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f787d56f64744b8cb79d08f57faff26c, type: 3}
+  m_Name: recipe_giant_squid_dragonfish_feast
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.RecipeData
+  _recipeId: recipe_giant_squid_dragonfish_feast
+  _displayName: "\uB300\uC655\uC624\uC9D5\uC5B4 \uB4DC\uB798\uACE4\uD53C\uC2DC \uB9CC\uCC2C"
+  _icon: {fileID: -993110273, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  _description: "\uC54C\uD30C \uC774\uD6C4 \uAC80\uC99D\uC6A9\uC73C\uB85C \uBCF4\uB958\uD55C
+    \uCD5C\uC0C1\uC704 \uC694\uB9AC \uD6C4\uBCF4\uC785\uB2C8\uB2E4."
+  _fishIngredients:
+  - _fishData: {fileID: 11400000, guid: 80314f98c4b72c44bb1e4bd0ebc60373, type: 2}
+    _count: 1
+  - _fishData: {fileID: 11400000, guid: 60ee48b6a7f93dc4497d6343c9c1d4dc, type: 2}
+    _count: 1
+  _outputItem: {fileID: 11400000, guid: 5ba8857f39782c44aa940f711ebbd92c, type: 2}
+  _outputCount: 1
+  _durationSeconds: 2400
+  _crewExp: 360
+  _maxQueueCount: 99
+  _sample: 0
+  _enabled: 0

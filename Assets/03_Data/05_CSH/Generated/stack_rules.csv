@@ -1,0 +1,9 @@
+category,defaultMaxStack,overflowPolicy,isEnabled,notes
+Fish,999,split_stack,TRUE,방치형 낚시에서 반복 획득되는 물고기는 크게 쌓입니다.
+Food,99,split_stack,TRUE,요리 결과물은 물고기보다 낮은 스택으로 보관합니다.
+Ticket,99,split_stack,TRUE,티켓과 쿠폰류는 종류별 수량으로 보관합니다.
+Special,1,require_instance,TRUE,고유 또는 레벨이 필요한 항목은 인스턴스 단위가 필요합니다.
+UpgradeMaterial,999,split_stack,TRUE,장비와 배 강화재료는 단계와 상관없이 대량 보관합니다.
+HighGradeMaterial,999,split_stack,TRUE,후반 고급 강화 코어 후보도 같은 방식으로 대량 보관합니다.
+Box,99,split_stack,TRUE,상자는 종류별 수량으로 보관합니다.
+Boat,1,require_instance,TRUE,배 스킬 수집 항목은 고유 보유로 취급합니다.

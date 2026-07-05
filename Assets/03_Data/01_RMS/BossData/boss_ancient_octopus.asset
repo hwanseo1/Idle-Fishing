@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8cab18fd0445204596aa82559deef6a, type: 3}
+  m_Name: boss_ancient_octopus
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.BossData
+  _bossId: boss_ancient_octopus
+  _displayName: "\uD574\uC548\uC758 \uD130\uC90F\uB300\uAC10, \uB300\uC655 \uBB38\uC5B4"
+  _icon: {fileID: 21300000, guid: 0a8a0ddad4348c64ebd38e307db6013d, type: 3}
+  _description: "\uC0B0\uB4E4\uBC14\uB78C \uD574\uC548\uC744 \uC218\uC2ED \uB144\uC9F8
+    \uC9C0\uD0A4\uB294 \uBB38\uC5B4. \uC5EC\uB35F \uAC1C\uC758 \uD314\uB85C \uC9C0\uB098\uAC00\uB294
+    \uBC30\uB97C \uB4A4\uC9D1\uB294\uB2E4\uACE0 \uC804\uD574\uC9C4\uB2E4."
+  _bossType: 0
+  _unlockStageId: 2-1
+  _manualBarrierCount: 2
+  _manualDifficulty: 0.5
+  _manualDamagePerHit: 30
+  _maxHp: 300
+  _timeLimitSeconds: 120
+  _baseDamagePerHit: 10
+  _clearRewardGroupId: 
+  _individualRewardGroupId: 
+  _totalRewardGroupId: 
+  _linkedFishId: 

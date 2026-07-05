@@ -1,0 +1,282 @@
+{
+  "shop_bag_capacity_001": {
+    "enabled": false,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 500,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "box_basic_reward",
+      "amount": 1
+    },
+    "unlockCondition": "bag_capacity_placeholder",
+    "visibilityCondition": ""
+  },
+  "shop_boat_upgrade_pack_001": {
+    "enabled": false,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 120,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "box_boat_upgrade_pack",
+      "amount": 1
+    },
+    "unlockCondition": "bm_placeholder",
+    "visibilityCondition": "stage>=2;currency:prismPearl>=1"
+  },
+  "shop_cooking_slot_001": {
+    "enabled": false,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 1000,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_basic",
+      "amount": 1
+    },
+    "unlockCondition": "cooking_slot_placeholder",
+    "visibilityCondition": ""
+  },
+  "shop_exchange_placeholder": {
+    "enabled": false,
+    "category": "coin",
+    "priceType": "pirateCoin",
+    "currencyCode": "PC",
+    "priceAmount": 10,
+    "reward": {
+      "inventoryKey": "IngredientInventory",
+      "itemId": "mat_high_grade_core",
+      "amount": 1
+    },
+    "unlockCondition": "exchange_placeholder",
+    "visibilityCondition": "stage>=2;currency:pirateCoin>=1"
+  },
+  "shop_gold_crew_fragment_001": {
+    "enabled": false,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 800,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_crew_fragment_basic",
+      "amount": 1
+    },
+    "unlockCondition": "recruit_placeholder",
+    "visibilityCondition": "stage>=1;currency:softCurrency>=800"
+  },
+  "shop_high_grade_core_001": {
+    "enabled": false,
+    "category": "coin",
+    "priceType": "pirateCoin",
+    "currencyCode": "PC",
+    "priceAmount": 10,
+    "reward": {
+      "inventoryKey": "IngredientInventory",
+      "itemId": "mat_high_grade_core",
+      "amount": 1
+    },
+    "unlockCondition": "stage>=3",
+    "visibilityCondition": "stage>=3;currency:pirateCoin>=1"
+  },
+  "shop_instant_complete_ticket_001": {
+    "enabled": false,
+    "category": "coin",
+    "priceType": "pirateCoin",
+    "currencyCode": "PC",
+    "priceAmount": 25,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_instant_complete",
+      "amount": 1
+    },
+    "unlockCondition": "instant_complete_placeholder",
+    "visibilityCondition": "stage>=2;currency:pirateCoin>=1"
+  },
+  "shop_material_choice_box_001": {
+    "enabled": false,
+    "category": "special",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 700,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "box_basic_reward",
+      "amount": 1
+    },
+    "unlockCondition": "bm_placeholder",
+    "visibilityCondition": "stage>=2;currency:softCurrency>=700;acquired:fish_anchovy>=1"
+  },
+  "shop_prism_recruit_ticket_001": {
+    "enabled": true,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 120,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_recruit_premium",
+      "amount": 1
+    },
+    "unlockCondition": "stage>=1",
+    "visibilityCondition": "stage>=1"
+  },
+  "shop_prism_recruit_ticket_010": {
+    "enabled": true,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 1080,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_recruit_premium",
+      "amount": 10
+    },
+    "unlockCondition": "stage>=1",
+    "visibilityCondition": "stage>=1"
+  },
+  "shop_recruit_ticket_001": {
+    "enabled": false,
+    "category": "coin",
+    "priceType": "pirateCoin",
+    "currencyCode": "PC",
+    "priceAmount": 50,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_recruit_basic",
+      "amount": 1
+    },
+    "unlockCondition": "recruit_placeholder",
+    "visibilityCondition": "stage>=2;currency:pirateCoin>=1"
+  },
+  "shop_special_goods_placeholder": {
+    "enabled": false,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 100,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "box_basic_reward",
+      "amount": 1
+    },
+    "unlockCondition": "bm_placeholder",
+    "visibilityCondition": "stage>=2;currency:prismPearl>=1"
+  },
+  "shop_speedup_ticket_001": {
+    "enabled": true,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 30,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_speedup_10m",
+      "amount": 1
+    },
+    "unlockCondition": "stage>=1",
+    "visibilityCondition": "stage>=1"
+  },
+  "shop_stage3_push_pack_001": {
+    "enabled": false,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 180,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "box_stage3_push_pack",
+      "amount": 1
+    },
+    "unlockCondition": "bm_placeholder",
+    "visibilityCondition": "stage>=2;currency:prismPearl>=1"
+  },
+  "shop_starter_cooking_pack_001": {
+    "enabled": true,
+    "category": "pearl",
+    "priceType": "prismPearl",
+    "currencyCode": "PP",
+    "priceAmount": 80,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "box_starter_cooking_pack",
+      "amount": 1
+    },
+    "unlockCondition": "stage>=1",
+    "visibilityCondition": "stage>=1"
+  },
+  "shop_ticket_basic_001": {
+    "enabled": false,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 500,
+    "reward": {
+      "inventoryKey": "OddmentInventory",
+      "itemId": "ticket_basic",
+      "amount": 1
+    },
+    "unlockCondition": "stage>=2",
+    "visibilityCondition": ""
+  },
+  "shop_upgrade_common_pack_001": {
+    "enabled": true,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 600,
+    "reward": {
+      "inventoryKey": "IngredientInventory",
+      "itemId": "mat_upgrade_common",
+      "amount": 10
+    },
+    "unlockCondition": "stage>=1",
+    "visibilityCondition": ""
+  },
+  "shop_upgrade_common_pack_002": {
+    "enabled": true,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 1500,
+    "reward": {
+      "inventoryKey": "IngredientInventory",
+      "itemId": "mat_upgrade_common",
+      "amount": 25
+    },
+    "unlockCondition": "stage>=2",
+    "visibilityCondition": ""
+  },
+  "shop_upgrade_refined_pack_001": {
+    "enabled": true,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 5000,
+    "reward": {
+      "inventoryKey": "IngredientInventory",
+      "itemId": "mat_upgrade_refined",
+      "amount": 8
+    },
+    "unlockCondition": "stage>=3",
+    "visibilityCondition": ""
+  },
+  "shop_upgrade_sturdy_pack_001": {
+    "enabled": true,
+    "category": "gold",
+    "priceType": "softCurrency",
+    "currencyCode": "GD",
+    "priceAmount": 2400,
+    "reward": {
+      "inventoryKey": "IngredientInventory",
+      "itemId": "mat_upgrade_sturdy",
+      "amount": 12
+    },
+    "unlockCondition": "stage>=2",
+    "visibilityCondition": ""
+  }
+}

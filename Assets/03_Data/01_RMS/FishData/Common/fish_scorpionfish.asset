@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_scorpionfish
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_scorpionfish
+  _displayName: "\uC3E8\uBC45\uC774"
+  _icon: {fileID: -2058555006, guid: 159e0af3fef23224e8e0fb1fb41530dd, type: 3}
+  _description: "\uC791\uC544\uB3C4 \uB9E4\uC6B4\uB9DB\uC744 \uBCF4\uC5EC\uC8FC\uB294
+    \uBC14\uC704\uD2C8\uC758 \uC740\uB454\uC790! \uD654\uB824\uD55C \uBCF4\uD638\uC0C9\uC73C\uB85C
+    \uC704\uC7A5\uD558\uACE0 \uC788\uC73C\uBA70, \uC9C0\uB290\uB7EC\uBBF8 \uAC00\uC2DC\uC5D0
+    \uD488\uC740 \uCE58\uBA85\uC801\uC778 \uB3C5\uC73C\uB85C \uBC29\uC2EC\uD55C \uB09A\uC2DC\uAFBC\uC758
+    \uC190\uAC00\uB77D\uC744 \uC800\uACA9\uD569\uB2C8\uB2E4."
+  _rarity: 0
+  _allowedStageIds: []
+  _spawnWeight: 14
+  _manualDifficulty: 0.42
+  _sellPriceGold: 340
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

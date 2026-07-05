@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_kingcrab
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_kingcrab
+  _displayName: "\uD0B9\uD06C\uB7A9"
+  _icon: {fileID: -1027302220, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  _description: "\uC2EC\uD574\uC758 \uAC70\uB300\uD55C \uC9C0\uBC30\uC790\uC774\uC790
+    \uAC8C\uB4E4\uC758 \uC655! \uD558\uC9C0\uB9CC \uC0AC\uC2E4\uC740 \uB2E4\uB9AC\uAC00
+    10\uAC1C\uC778 \uAF43\uAC8C\uC640 \uB2EC\uB9AC, \uB2E4\uB9AC\uAC00 8\uAC1C\uBFD0\uC774\uB77C
+    \uC9D1\uAC8C\uB97C \uAC00\uB9CC\uD788 \uBCF4\uBA74 '\uC18C\uB77C\uAC8C'\uC758
+    \uCE5C\uCC99\uC5D0 \uB354 \uAC00\uAE5D\uC2B5\uB2C8\uB2E4."
+  _rarity: 1
+  _allowedStageIds: []
+  _spawnWeight: 6
+  _manualDifficulty: 0.68
+  _sellPriceGold: 1100
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94b5e3025427f4f8cb7aa212078704, type: 3}
+  m_Name: CrewData 07
+  m_EditorClassIdentifier: Assembly-CSharp::Crew.CrewData
+  CrewId: Crew_OldMan_And_Sea
+  CrewName: "\uB178\uC778\uACFC \uBC14\uB2E4"
+  CrewGrade: 2
+  CrewSprite: {fileID: 1709407763, guid: 711014687d31b064d98ee2ee8eb592fc, type: 3}
+  CrewPrefab: {fileID: 2263007592984647173, guid: 301928f7d8cdc80428636e7d0eacb73f, type: 3}

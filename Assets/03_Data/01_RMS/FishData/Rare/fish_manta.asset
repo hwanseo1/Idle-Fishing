@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_manta
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_manta
+  _displayName: "\uB9CC\uD0C0\uAC00\uC624\uB9AC"
+  _icon: {fileID: -730602482, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  _description: "\uBC14\uB2E4\uB97C \uB0A0\uC544\uB2E4\uB2C8\uB294 \uAC70\uB300\uD55C
+    \uC740\uBE5B \uC591\uB2E8(\u7DDE)! \uBAB8\uAE38\uC774 7m\uC5D0 \uB2EC\uD558\uB294
+    \uAC70\uAD6C\uC9C0\uB9CC, \uC774\uBE68\uC774 \uD1F4\uD654\uD574 \uD50C\uB791\uD06C\uD1A4\uB9CC
+    \uAC78\uB7EC \uBA39\uB294 \uBC14\uB2E4 \uCD5C\uACE0\uC758 \uC21C\uB465\uC774
+    \uC2E0\uC0AC\uC785\uB2C8\uB2E4."
+  _rarity: 1
+  _allowedStageIds: []
+  _spawnWeight: 4
+  _manualDifficulty: 0.73
+  _sellPriceGold: 1400
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

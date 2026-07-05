@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c94b5e3025427f4f8cb7aa212078704, type: 3}
+  m_Name: CrewData 05
+  m_EditorClassIdentifier: Assembly-CSharp::Crew.CrewData
+  CrewId: Crew_Chef_Lin
+  CrewName: "\uC694\uB9AC\uC0AC \uB9B0"
+  CrewGrade: 1
+  CrewSprite: {fileID: -2125729560, guid: 912efe410f7b27949ace888d5352ae49, type: 3}
+  CrewPrefab: {fileID: 906946932801656989, guid: 60ef4197451495048a9f90be5c3c4311, type: 3}

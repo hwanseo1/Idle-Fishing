@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_filefish
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_filefish
+  _displayName: "\uC950\uCE58"
+  _icon: {fileID: 1496388749, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  _description: "\uB450\uAEBC\uC6B4 \uAC00\uC8FD \uC18D\uC5D0 \uAC10\uCDB0\uC9C4
+    \uBC18\uC804 \uB9E4\uB825! \uC8FC\uB465\uC774\uAC00 \uC791\uC544 \uBBF8\uB07C\uB9CC
+    \uC3D9 \uBE7C\uBA39\uB294 '\uBC14\uB2E4\uC758 \uB3C4\uB451\uB188'\uC774\uC9C0\uB9CC,
+    \uC950\uD3EC\uC758 \uC6D0\uC870\uC774\uC790 \uD64D\uC5B4\uB9CC\uD07C \uB179\uC9C4\uD558\uACE0
+    \uACE0\uC18C\uD55C \uAC04(\u809D)\uC744 \uC228\uAE30\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+  _rarity: 0
+  _allowedStageIds: []
+  _spawnWeight: 14
+  _manualDifficulty: 0.28
+  _sellPriceGold: 170
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

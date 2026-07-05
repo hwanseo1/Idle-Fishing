@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1505825e01ed23d4aaed856bf32ac872, type: 3}
+  m_Name: food_yellowtail_sashimi
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.FoodData
+  _foodId: food_yellowtail_sashimi
+  _displayNameKo: "\uBC29\uC5B4\uD68C"
+  _itemData: {fileID: 11400000, guid: 2c505e1de676d5140b58182dc623ff29, type: 2}
+  _enabled: 1
+  _sellable: 1
+  _sellGold: 1010
+  _category: Food
+  _sourceType: Cooking
+  _cookTag: meal
+  _crewExp: 45

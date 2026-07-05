@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_amberjack
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_amberjack
+  _displayName: "\uBD80\uC2DC\uB9AC"
+  _icon: {fileID: -982159770, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  _description: "\uBC29\uC5B4\uC640 \uB2EE\uC558\uC9C0\uB9CC 1\uB144 \uB0B4\uB0B4
+    \uC9C0\uCE58\uC9C0 \uC54A\uB294 \uC9C8\uC8FC\uB9C8! \uD55C \uBC88 \uAC78\uB824\uB4E4\uBA74
+    \uB09A\uC2EF\uB300\uB97C \uBC14\uB2E4\uB85C \uB04C\uACE0 \uB4E4\uC5B4\uAC08 \uB9CC\uD07C
+    \uD30C\uAD34\uC801\uC778 \uD798\uC744 \uC790\uB791\uD558\uB294 \uBD80\uB3D9\uC758
+    \uBD80\uC2DC\uB3CC\uC774\uC785\uB2C8\uB2E4."
+  _rarity: 2
+  _allowedStageIds: []
+  _spawnWeight: 4
+  _manualDifficulty: 0.78
+  _sellPriceGold: 1400
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

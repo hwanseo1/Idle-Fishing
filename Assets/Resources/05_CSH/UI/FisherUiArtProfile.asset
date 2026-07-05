@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 904bf25833e71e84e9aeed523ddc856a, type: 3}
+  m_Name: FisherUiArtProfile
+  m_EditorClassIdentifier: 
+  _panelBackground: {fileID: 21300000, guid: 84116816487c42a29f8e819663b0e95f, type: 3}
+  _sectionBackground: {fileID: 21300000, guid: 782e7a39a67b44e5aec12e3f7a9d1ab3, type: 3}
+  _detailBackground: {fileID: 21300000, guid: 047cbd1ac4164f0e9d118c25fdc8efe3, type: 3}
+  _buttonNormal: {fileID: 21300000, guid: ed215855cd344c32af20fab96be262b1, type: 3}
+  _buttonSelected: {fileID: 21300000, guid: 3ac6accf975c49e6bc1be9f388f914f5, type: 3}
+  _buttonDisabled: {fileID: 21300000, guid: 8abb4687beae4be4b14dc6d5bac8882f, type: 3}
+  _slotNormal: {fileID: 21300000, guid: 16eef611becb4bb6b5cc0015676d6942, type: 3}
+  _slotSelected: {fileID: 21300000, guid: 7ba85c2953924c27b6d9ad72714cd7bc, type: 3}
+  _slotEmpty: {fileID: 21300000, guid: 50a4dcc8633547f9a5d7c892cd6ac311, type: 3}
+  _iconFrame: {fileID: 21300000, guid: 7ba85c2953924c27b6d9ad72714cd7bc, type: 3}
+  _itemIcons:
+  - _itemId: gold
+    _sprite: {fileID: 21300000, guid: bd4f7f42f5ea323488b4923efdd81959, type: 3}
+  - _itemId: prismPearl
+    _sprite: {fileID: 21300000, guid: b12758137566ece49a6c15e1b39f6506, type: 3}
+  - _itemId: boat_lamp
+    _sprite: {fileID: 21300000, guid: e03f03f51c489b94fa88a7ec9448a957, type: 3}
+  - _itemId: boat_penguin
+    _sprite: {fileID: 21300000, guid: f008f0386cfa8e74e8e3ad09c16b2102, type: 3}
+  - _itemId: boat_vacuum
+    _sprite: {fileID: 21300000, guid: a508582f1ad25074f92238e26cb00e55, type: 3}
+  - _itemId: box_basic_reward
+    _sprite: {fileID: 21300000, guid: 80ad6320a419e8f449a2488a1d0736f7, type: 3}
+  - _itemId: box_boat_upgrade_pack
+    _sprite: {fileID: 21300000, guid: 80ad6320a419e8f449a2488a1d0736f7, type: 3}
+  - _itemId: box_stage3_push_pack
+    _sprite: {fileID: 21300000, guid: 80ad6320a419e8f449a2488a1d0736f7, type: 3}
+  - _itemId: box_starter_cooking_pack
+    _sprite: {fileID: 21300000, guid: bf34c8b09c8978d468286dd19edc472c, type: 3}
+  - _itemId: cash_prism_small_001
+    _sprite: {fileID: 21300000, guid: 83b8f54a481e63f419b6aa57d55fa4d4, type: 3}
+  - _itemId: cash_prism_medium_001
+    _sprite: {fileID: 21300000, guid: 65cbf987d853579409df31fec1739de7, type: 3}
+  - _itemId: cash_prism_large_001
+    _sprite: {fileID: 21300000, guid: 15acdb7b6bfe8ae4aa57cec65fe4a380, type: 3}
+  - _itemId: fish_amberjack
+    _sprite: {fileID: -982159770, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: fish_anchovy
+    _sprite: {fileID: -1774332526, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_bluefinTuna
+    _sprite: {fileID: -230554742, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_coelacanth
+    _sprite: {fileID: 1303036982, guid: 159e0af3fef23224e8e0fb1fb41530dd, type: 3}
+  - _itemId: fish_croaker
+    _sprite: {fileID: -1110601377, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_cuttlefish
+    _sprite: {fileID: -1292413097, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_deepseashrimp
+    _sprite: {fileID: -1505239803, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_dragonfish
+    _sprite: {fileID: 351447745, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_filefish
+    _sprite: {fileID: 1496388749, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_flatfish
+    _sprite: {fileID: 81649012, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_giant_squid
+    _sprite: {fileID: -2129309579, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_greatwhite
+    _sprite: {fileID: -1434992940, guid: 159e0af3fef23224e8e0fb1fb41530dd, type: 3}
+  - _itemId: fish_hairtail
+    _sprite: {fileID: -2011438318, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: fish_kingcrab
+    _sprite: {fileID: -1027302220, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: fish_mackerel
+    _sprite: {fileID: -442110927, guid: 159e0af3fef23224e8e0fb1fb41530dd, type: 3}
+  - _itemId: fish_manta
+    _sprite: {fileID: -730602482, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: fish_moray
+    _sprite: {fileID: 714852398, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_oarfish
+    _sprite: {fileID: -1531190918, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_octopus
+    _sprite: {fileID: -1812737501, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: fish_pollock
+    _sprite: {fileID: -1904574531, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_puffer
+    _sprite: {fileID: -2092733999, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_rockfish
+    _sprite: {fileID: -726893912, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: fish_saury
+    _sprite: {fileID: 2092766674, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_scorpionfish
+    _sprite: {fileID: -2058555006, guid: 159e0af3fef23224e8e0fb1fb41530dd, type: 3}
+  - _itemId: fish_seabass
+    _sprite: {fileID: 158946821, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_snapper
+    _sprite: {fileID: 1032944536, guid: 159e0af3fef23224e8e0fb1fb41530dd, type: 3}
+  - _itemId: fish_squid
+    _sprite: {fileID: -1118602377, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_sunfish
+    _sprite: {fileID: -749200712, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  - _itemId: fish_swordfish
+    _sprite: {fileID: -773628223, guid: f86393ad95c261945a32e7fbdffdd245, type: 3}
+  - _itemId: fish_yellowtail
+    _sprite: {fileID: 723088564, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  - _itemId: food_bluefin_tuna_platter
+    _sprite: {fileID: -2097681125, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_coelacanth_greatwhite_feast
+    _sprite: {fileID: -1439003721, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_croaker_octopus_grill
+    _sprite: {fileID: 1926429445, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_cuttlefish_amberjack_hotpot
+    _sprite: {fileID: 427517479, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_deepsea_manta_curry
+    _sprite: {fileID: -1462395661, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_flatfish_soup
+    _sprite: {fileID: -1668854142, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_giant_squid_dragonfish_feast
+    _sprite: {fileID: -993110273, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_grilled_anchovy
+    _sprite: {fileID: -555674406, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_grilled_mackerel
+    _sprite: {fileID: -1514019188, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_hairtail_grill
+    _sprite: {fileID: -1883751847, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_moray_scorpion_soup
+    _sprite: {fileID: -1795579114, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_oarfish_kingcrab_roast
+    _sprite: {fileID: 1154497051, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_rockfish_stew
+    _sprite: {fileID: -1047840499, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_saury_stew
+    _sprite: {fileID: -1627619318, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_sunfish_steak
+    _sprite: {fileID: -939471722, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_swordfish_platter
+    _sprite: {fileID: 1529149799, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: food_yellowtail_sashimi
+    _sprite: {fileID: 715074176, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: fragment_Crew_Captain_Max
+    _sprite: {fileID: 21300000, guid: 050653f4fa114487a90a46f4e2675401, type: 3}
+  - _itemId: fragment_Crew_Chef_Lin
+    _sprite: {fileID: 21300000, guid: c3cfde73313347878391deb47e7386cb, type: 3}
+  - _itemId: fragment_Crew_Dasol
+    _sprite: {fileID: 21300000, guid: 4ef6084f1da744d39cce455c35e93794, type: 3}
+  - _itemId: fragment_Crew_Master_Angler
+    _sprite: {fileID: 21300000, guid: 1de9756d6b1f4750ab87a4519b1e2af2, type: 3}
+  - _itemId: fragment_Crew_Moby_Dick
+    _sprite: {fileID: 21300000, guid: 7d07f107cd21422b93ff517393dd4c03, type: 3}
+  - _itemId: fragment_Crew_Navigator_Jun
+    _sprite: {fileID: 21300000, guid: fe0aa5773e854f95956290b4b49e1bb0, type: 3}
+  - _itemId: fragment_Crew_OldMan_And_Sea
+    _sprite: {fileID: 21300000, guid: 09830e3719674267a7b674d30d2cd7da, type: 3}
+  - _itemId: fragment_Crew_Rookie_Sailor
+    _sprite: {fileID: 21300000, guid: 0ca55a875921447cb3cb536035e948a8, type: 3}
+  - _itemId: fragment_Crew_Veteran_Angler
+    _sprite: {fileID: 21300000, guid: 8c494ecbbfdf4c7e8a96e3bd8d2aae05, type: 3}
+  - _itemId: fragment_Crew_Veteran_Navigator
+    _sprite: {fileID: 21300000, guid: 0e103ede6a154f5692fcec06ceea65d3, type: 3}
+  - _itemId: mat_high_grade_core
+    _sprite: {fileID: 21300000, guid: 51a5e30efb1e4b43a93fda3d2251fc6a, type: 3}
+  - _itemId: mat_upgrade_common
+    _sprite: {fileID: 21300000, guid: d184ffadcf7136244bc878ff9a1d3917, type: 3}
+  - _itemId: mat_upgrade_refined
+    _sprite: {fileID: 21300000, guid: 51a5e30efb1e4b43a93fda3d2251fc6a, type: 3}
+  - _itemId: mat_upgrade_sturdy
+    _sprite: {fileID: 21300000, guid: 51a5e30efb1e4b43a93fda3d2251fc6a, type: 3}
+  - _itemId: recipe_bluefin_tuna_platter
+    _sprite: {fileID: -2097681125, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_coelacanth_greatwhite_feast_g3
+    _sprite: {fileID: -1439003721, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_croaker_octopus_grill_g2
+    _sprite: {fileID: 1926429445, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_cuttlefish_amberjack_hotpot_g2
+    _sprite: {fileID: 427517479, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_deepsea_manta_curry_g3
+    _sprite: {fileID: -1462395661, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_flatfish_soup_g2
+    _sprite: {fileID: -1668854142, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_giant_squid_dragonfish_feast
+    _sprite: {fileID: -993110273, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_grilled_anchovy_g1
+    _sprite: {fileID: -555674406, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_grilled_mackerel_g1
+    _sprite: {fileID: -1514019188, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_hairtail_grill_g2
+    _sprite: {fileID: -1883751847, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_moray_scorpion_soup_g3
+    _sprite: {fileID: -1795579114, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_oarfish_kingcrab_roast_g3
+    _sprite: {fileID: 1154497051, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_rockfish_stew_g2
+    _sprite: {fileID: -1047840499, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_saury_stew_g1
+    _sprite: {fileID: -1627619318, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_sunfish_steak_g2
+    _sprite: {fileID: -939471722, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_swordfish_platter_g3
+    _sprite: {fileID: 1529149799, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: recipe_yellowtail_sashimi_g2
+    _sprite: {fileID: 715074176, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  - _itemId: ticket_basic
+    _sprite: {fileID: 21300000, guid: d32e2c3af9dc76345a214dae4517a942, type: 3}
+  - _itemId: ticket_choice_basic
+    _sprite: {fileID: 21300000, guid: d32e2c3af9dc76345a214dae4517a942, type: 3}
+  - _itemId: ticket_crew_fragment_basic
+    _sprite: {fileID: 21300000, guid: f722f7274fd660f45b36cbf69a63ea40, type: 3}
+  - _itemId: ticket_instant_complete
+    _sprite: {fileID: -2068567454, guid: 7d62a707c61a56e4999ce7df24da3aa2, type: 3}
+  - _itemId: ticket_recruit_basic
+    _sprite: {fileID: 21300000, guid: d32e2c3af9dc76345a214dae4517a942, type: 3}
+  - _itemId: ticket_recruit_premium
+    _sprite: {fileID: 21300000, guid: 8beb76a57b4d8004886a2d945076e14b, type: 3}
+  - _itemId: ticket_speedup_10m
+    _sprite: {fileID: 21300000, guid: 8e2bcb906bb826b43a266805b1a20705, type: 3}
+  _fontAsset: {fileID: 0}
+  _fontMaterial: {fileID: 0}
+  _textPrimary: {r: 1, g: 1, b: 1, a: 1}
+  _textMuted: {r: 0.78, g: 0.86, b: 0.9, a: 1}
+  _panelColor: {r: 0.08, g: 0.1, b: 0.12, a: 0.96}
+  _sectionColor: {r: 0.06, g: 0.08, b: 0.09, a: 0.5}
+  _detailColor: {r: 0.12, g: 0.18, b: 0.22, a: 0.92}
+  _inputColor: {r: 0.08, g: 0.13, b: 0.16, a: 1}
+  _iconFrameColor: {r: 0.16, g: 0.23, b: 0.27, a: 1}
+  _buttonNormalColor: {r: 0.2, g: 0.32, b: 0.42, a: 1}
+  _buttonSelectedColor: {r: 0.36, g: 0.52, b: 0.64, a: 1}
+  _buttonDisabledColor: {r: 0.28, g: 0.28, b: 0.28, a: 1}
+  _slotNormalColor: {r: 0.12, g: 0.18, b: 0.2, a: 0.95}
+  _slotSelectedColor: {r: 0.36, g: 0.52, b: 0.64, a: 0.9}
+  _slotEmptyColor: {r: 0.12, g: 0.18, b: 0.2, a: 0.88}
+  _slotDimmedColor: {r: 0.08, g: 0.1, b: 0.11, a: 0.35}
+  _selectedFrameColor: {r: 0.55, g: 0.78, b: 1, a: 0.55}
+  _newBadgeColor: {r: 0.82, g: 0.16, b: 0.1, a: 1}
+  _lockedBadgeColor: {r: 0.12, g: 0.12, b: 0.12, a: 1}
+  _outlineColor: {r: 0, g: 0, b: 0, a: 0.95}

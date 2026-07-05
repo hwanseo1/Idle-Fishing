@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8afbcc4151d48b39d61361589479e47, type: 3}
+  m_Name: box_starter_cooking_pack
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.ItemData
+  _itemId: box_starter_cooking_pack
+  _displayName: "\uCD08\uBC18 \uC694\uB9AC \uC2A4\uD0C0\uD130 \uC0C1\uC790"
+  _icon: {fileID: 21300000, guid: bf34c8b09c8978d468286dd19edc472c, type: 3}
+  _description: "\uCD08\uBC18 \uC694\uB9AC\uC640 \uAC00\uC18D\uAD8C\uC744 \uBB36\uB294
+    BM \uD6C4\uBCF4 \uC0C1\uC790\uC785\uB2C8\uB2E4."
+  _category: 8
+  _rarity: 1
+  _sourceType: BM
+  _stackable: 1
+  _maxStack: 99
+  _sellPriceGold: 0
+  _sample: 0
+  _enabled: 0

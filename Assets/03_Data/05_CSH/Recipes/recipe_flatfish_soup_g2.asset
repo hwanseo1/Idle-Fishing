@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f787d56f64744b8cb79d08f57faff26c, type: 3}
+  m_Name: recipe_flatfish_soup_g2
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.RecipeData
+  _recipeId: recipe_flatfish_soup_g2
+  _displayName: "\uAD11\uC5B4\uD0D5"
+  _icon: {fileID: -1668854142, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  _description: "\uACE8\uB4DC \uC77C\uBD80\uB97C \uD3EC\uAE30\uD558\uACE0 \uC120\uC6D0
+    \uACBD\uD5D8\uCE58\uB97C \uC5BB\uB294 \uCD08\uBC18 \uC120\uD0DD\uC9C0\uC785\uB2C8\uB2E4."
+  _fishIngredients:
+  - _fishData: {fileID: 11400000, guid: 9d6f1ff9da5e6404fb58bd3d2445927b, type: 2}
+    _count: 1
+  - _fishData: {fileID: 11400000, guid: 325f7c34146e4294fa5fcb56e16040d4, type: 2}
+    _count: 1
+  _outputItem: {fileID: 11400000, guid: 89cc4512054d0bb4da04d3ed8c861088, type: 2}
+  _outputCount: 1
+  _durationSeconds: 240
+  _crewExp: 12
+  _maxQueueCount: 99
+  _sample: 0
+  _enabled: 1

@@ -1,0 +1,7 @@
+bannerId,rollLayer,rewardType,grade,ratePct,rateDecimal,isRemainder,isEnabled,applyMode,sourceSheet,sourceRange,sourceKey,precision,sourceHash,notes
+premium_crew,crew_grade,Crew,R,80,0.8,FALSE,TRUE,apply,10_GachaProbability,,_rRate,0.0001,,premium crew grade R rate
+premium_crew,crew_grade,Crew,SR,17,0.17,FALSE,TRUE,apply,10_GachaProbability,,_srRate,0.0001,,premium crew grade SR rate
+premium_crew,crew_grade,Crew,SSR,3,0.03,FALSE,TRUE,apply,10_GachaProbability,,_ssrRate,0.0001,,premium crew grade SSR rate
+basic_material,reward_type,Materials,,76.5,0.765,TRUE,TRUE,apply,10_GachaProbability,,_materialRate,0.0001,,material reward type rate after crew and fragment
+basic_material,reward_type,CrewFragment,,20,0.2,FALSE,TRUE,apply,10_GachaProbability,,_crewFregmentsRate,0.0001,,crew fragment reward type rate
+basic_material,reward_type,Crew,,3.5,0.035,FALSE,TRUE,apply,10_GachaProbability,,_crewRate,0.0001,,full crew reward type rate

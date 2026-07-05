@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f787d56f64744b8cb79d08f57faff26c, type: 3}
+  m_Name: recipe_rockfish_stew_g2
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.RecipeData
+  _recipeId: recipe_rockfish_stew_g2
+  _displayName: "\uBCFC\uB77D\uB9E4\uC6B4\uD0D5"
+  _icon: {fileID: -1047840499, guid: adb8a02fdaeaa4849ad2bcad775bda69, type: 3}
+  _description: "\uC2A4\uD14C\uC774\uC9C02 \uC77C\uBC18 \uC5B4\uC885\uC744 \uC694\uB9AC
+    \uC131\uC7A5\uC73C\uB85C \uC5F0\uACB0\uD569\uB2C8\uB2E4."
+  _fishIngredients:
+  - _fishData: {fileID: 11400000, guid: d778783af00a57b40bea7e72374df616, type: 2}
+    _count: 1
+  - _fishData: {fileID: 11400000, guid: b46277b68c19e50479465581ea660305, type: 2}
+    _count: 1
+  _outputItem: {fileID: 11400000, guid: ab9165d26c1e79644a7643bab81ddfa8, type: 2}
+  _outputCount: 1
+  _durationSeconds: 360
+  _crewExp: 16
+  _maxQueueCount: 99
+  _sample: 0
+  _enabled: 1

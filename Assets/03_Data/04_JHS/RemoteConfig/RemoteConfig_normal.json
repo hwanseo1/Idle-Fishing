@@ -1,0 +1,13 @@
+{
+  "minVersion": "0.1.0",
+  "recommendedVersion": "0.1.0",
+  "maintenance": false,
+  "maintenanceMessage": "",
+  "dataVersion": "11",
+  "balance": [
+    {
+      "key": "goldMultiplier",
+      "value": "2.0"
+    }
+  ]
+}

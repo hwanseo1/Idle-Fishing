@@ -1,0 +1,111 @@
+{
+  "box_basic_reward": {
+    "displayNameKo": "재료 선택 상자",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Box",
+    "sourceType": "Reward",
+    "cookTag": "box",
+    "choiceRewards": [
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_common",
+        "amount": 10
+      },
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_sturdy",
+        "amount": 4
+      },
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_refined",
+        "amount": 1
+      }
+    ]
+  },
+  "box_boat_upgrade_pack": {
+    "displayNameKo": "배 강화 준비 상자",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Box",
+    "sourceType": "BM",
+    "cookTag": "box",
+    "rewards": [
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_common",
+        "amount": 20
+      },
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_sturdy",
+        "amount": 4
+      }
+    ]
+  },
+  "box_stage3_push_pack": {
+    "displayNameKo": "3지역 진입 지원 상자",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Box",
+    "sourceType": "BM",
+    "cookTag": "box",
+    "rewards": [
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_common",
+        "amount": 15
+      },
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_sturdy",
+        "amount": 6
+      },
+      {
+        "inventoryKey": "IngredientInventory",
+        "itemId": "mat_upgrade_refined",
+        "amount": 2
+      },
+      {
+        "inventoryKey": "OddmentInventory",
+        "itemId": "ticket_speedup_10m",
+        "amount": 1
+      }
+    ]
+  },
+  "box_starter_cooking_pack": {
+    "displayNameKo": "초반 요리 스타터 상자",
+    "enabled": true,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "Box",
+    "sourceType": "BM",
+    "cookTag": "box",
+    "rewards": [
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_anchovy",
+        "amount": 4
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_saury",
+        "amount": 2
+      },
+      {
+        "inventoryKey": "FishInventory",
+        "itemId": "fish_mackerel",
+        "amount": 2
+      },
+      {
+        "inventoryKey": "OddmentInventory",
+        "itemId": "ticket_speedup_10m",
+        "amount": 1
+      }
+    ]
+  }
+}

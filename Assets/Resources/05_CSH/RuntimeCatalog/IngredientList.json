@@ -1,0 +1,38 @@
+{
+  "mat_high_grade_core": {
+    "displayNameKo": "고급 강화 코어",
+    "enabled": false,
+    "sellable": false,
+    "sellGold": 0,
+    "category": "HighGradeMaterial",
+    "sourceType": "Reward",
+    "cookTag": "upgrade"
+  },
+  "mat_upgrade_common": {
+    "displayNameKo": "기초 강화재료",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 15,
+    "category": "UpgradeMaterial",
+    "sourceType": "Shop",
+    "cookTag": "upgrade"
+  },
+  "mat_upgrade_refined": {
+    "displayNameKo": "정제 강화재료",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 150,
+    "category": "UpgradeMaterial",
+    "sourceType": "Shop",
+    "cookTag": "upgrade"
+  },
+  "mat_upgrade_sturdy": {
+    "displayNameKo": "튼튼한 강화재료",
+    "enabled": true,
+    "sellable": true,
+    "sellGold": 50,
+    "category": "UpgradeMaterial",
+    "sourceType": "Shop",
+    "cookTag": "upgrade"
+  }
+}

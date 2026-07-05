@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1505825e01ed23d4aaed856bf32ac872, type: 3}
+  m_Name: food_deepsea_manta_curry
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.FoodData
+  _foodId: food_deepsea_manta_curry
+  _displayNameKo: "\uC2EC\uD574\uC0C8\uC6B0 \uB9CC\uD0C0 \uCE74\uB808"
+  _itemData: {fileID: 11400000, guid: c909b067a8ad5a845af8491d189724f6, type: 2}
+  _enabled: 1
+  _sellable: 1
+  _sellGold: 2130
+  _category: Food
+  _sourceType: Cooking
+  _cookTag: meal
+  _crewExp: 95

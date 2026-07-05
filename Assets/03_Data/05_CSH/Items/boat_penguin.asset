@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8afbcc4151d48b39d61361589479e47, type: 3}
+  m_Name: boat_penguin
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.ItemData
+  _itemId: boat_penguin
+  _displayName: "\uD3AD\uADC4"
+  _icon: {fileID: 21300000, guid: f008f0386cfa8e74e8e3ad09c16b2102, type: 3}
+  _description: "JHS Boat.asset\uC758 \uD3AD\uADC4 \uBC30 \uC2A4\uD0AC\uACFC \uB9DE\uCD98
+    \uC218\uC9D1 \uC544\uC774\uD15C\uC785\uB2C8\uB2E4."
+  _category: 10
+  _rarity: 1
+  _sourceType: Equipment
+  _stackable: 0
+  _maxStack: 1
+  _sellPriceGold: 0
+  _sample: 0
+  _enabled: 1

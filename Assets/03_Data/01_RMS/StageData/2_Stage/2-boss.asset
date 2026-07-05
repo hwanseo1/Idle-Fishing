@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 755ddab2349e96c4ea6a063cd9b3dfb1, type: 3}
+  m_Name: 2-boss
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.StageData
+  _stageId: 2-boss
+  _displayName: "\uAE4A\uC740 \uBB3C\uBAA9 \uBCF4\uC2A4"
+  _isBossStage: 1
+  _bossData: {fileID: 11400000, guid: 8954a46b887687f4e91a12ef677e44e2, type: 2}
+  _fishEntries: []
+  _nextStage: {fileID: 11400000, guid: bd3184f426555094c9daf3c36a6d9689, type: 2}

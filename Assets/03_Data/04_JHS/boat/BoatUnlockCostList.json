@@ -1,0 +1,7 @@
+{
+  "items": {
+    "boat_vacuum": { "goldCost": 0 },
+    "boat_lamp": { "goldCost": 300 },
+    "boat_penguin": { "goldCost": 600 }
+  }
+}

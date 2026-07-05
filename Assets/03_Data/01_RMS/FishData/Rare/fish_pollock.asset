@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_pollock
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_pollock
+  _displayName: "\uC0DD\uD0DC"
+  _icon: {fileID: -1904574531, guid: ada4ce6ae8d4f4a4381257d9976f70dd, type: 3}
+  _description: "\uAC13 \uC7A1\uD78C \uC2E0\uC120\uD568 \uADF8 \uC790\uCCB4! \uC5BC\uB9AC\uBA74
+    \uB3D9\uD0DC, \uB9D0\uB9AC\uBA74 \uBD81\uC5B4, \uACA8\uC6B8\uBC14\uB78C\uC5D0
+    \uC5BC\uACE0 \uB179\uAE30\uB97C \uBC18\uBCF5\uD558\uBA74 \uD669\uD0DC\uAC00 \uB418\uB294
+    \uBCC0\uC2E0\uC758 \uADC0\uC7AC\uC785\uB2C8\uB2E4."
+  _rarity: 1
+  _allowedStageIds: []
+  _spawnWeight: 6
+  _manualDifficulty: 0.45
+  _sellPriceGold: 320
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

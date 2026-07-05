@@ -1,0 +1,21 @@
+shopItemId,category,priceType,priceAmount,rewardItemId,rewardCount,unlockCondition,sortOrder,isEnabled,notes,visibilityCondition
+shop_upgrade_common_pack_001,gold,softCurrency,600,mat_upgrade_common,10,stage>=1,100,TRUE,초반 장비와 배 강화용 기초 재료 묶음입니다. 시작 골드로 과도하게 우회하지 못하게 가격을 올렸습니다.,
+shop_upgrade_common_pack_002,gold,softCurrency,1500,mat_upgrade_common,25,stage>=2,110,TRUE,스테이지2 이후 기초 강화재료가 부족할 때 보조하는 큰 묶음입니다.,
+shop_upgrade_sturdy_pack_001,gold,softCurrency,2400,mat_upgrade_sturdy,12,stage>=2,120,TRUE,중반 강화용 튼튼한 재료 묶음입니다. 2지역 이후 병목 완화용입니다.,
+shop_upgrade_refined_pack_001,gold,softCurrency,5000,mat_upgrade_refined,8,stage>=3,130,TRUE,후반 강화용 정제 재료 묶음입니다. 3지역 진입 이후 확인할 후보입니다.,
+shop_ticket_basic_001,gold,softCurrency,500,ticket_basic,1,stage>=2,200,FALSE,골드로 사는 일반 티켓 후보입니다. 현재는 비활성입니다.,
+shop_gold_crew_fragment_001,gold,softCurrency,800,ticket_crew_fragment_basic,1,recruit_placeholder,210,FALSE,공용 선원 조각 지급 후보입니다. 골드 모집 기본 보상은 선원별 조각으로 분리하고 이 상품은 패키지/이벤트 후보로만 남깁니다.,stage>=1;currency:softCurrency>=800
+shop_bag_capacity_001,gold,softCurrency,500,box_basic_reward,1,bag_capacity_placeholder,400,FALSE,가방 확장 후보입니다. 확장 로직 확정 전까지 비활성입니다.,
+shop_cooking_slot_001,gold,softCurrency,1000,ticket_basic,1,cooking_slot_placeholder,410,FALSE,요리 슬롯 확장 후보입니다. 슬롯 확장 로직 확정 전까지 비활성입니다.,
+shop_speedup_ticket_001,pearl,prismPearl,30,ticket_speedup_10m,1,stage>=1,500,TRUE,요리 가속권 BM preview 상품입니다. 구매와 사용은 서버 검증 응답 기준으로 처리합니다.,stage>=1
+shop_special_goods_placeholder,pearl,prismPearl,100,box_basic_reward,1,bm_placeholder,510,FALSE,특가 상품 후보입니다. BM 구조 확정 전까지 비활성입니다.,stage>=2;currency:prismPearl>=1
+shop_prism_recruit_ticket_001,pearl,prismPearl,120,ticket_recruit_premium,1,stage>=1,550,TRUE,진주 선원 모집 1회권 preview 상품입니다. 완성 선원 지급과 중복 조각 fallback은 서버 실행 쪽에서 처리합니다.,stage>=1
+shop_prism_recruit_ticket_010,pearl,prismPearl,1080,ticket_recruit_premium,10,stage>=1,551,TRUE,진주 선원 모집 10회권 preview 상품입니다. 임시 10% 할인 기준이며 지급은 서버 실행 쪽에서 처리합니다.,stage>=1
+shop_high_grade_core_001,coin,pirateCoin,10,mat_high_grade_core,1,stage>=3,600,FALSE,고급 강화 코어 후보입니다. 후반 강화 구조 확정 전까지 비활성입니다.,stage>=3;currency:pirateCoin>=1
+shop_recruit_ticket_001,coin,pirateCoin,50,ticket_recruit_basic,1,recruit_placeholder,610,FALSE,선원 모집 티켓 후보입니다. 선원 모집 구조 확정 전까지 비활성입니다.,stage>=2;currency:pirateCoin>=1
+shop_instant_complete_ticket_001,coin,pirateCoin,25,ticket_instant_complete,1,instant_complete_placeholder,620,FALSE,즉시 완료권 후보입니다. 대기 제거형 BM 검증 전까지 비활성입니다.,stage>=2;currency:pirateCoin>=1
+shop_exchange_placeholder,coin,pirateCoin,10,mat_high_grade_core,1,exchange_placeholder,630,FALSE,고급 강화 코어 교환 후보입니다. 교환 정책 확정 전까지 비활성입니다.,stage>=2;currency:pirateCoin>=1
+shop_material_choice_box_001,special,softCurrency,700,box_basic_reward,1,bm_placeholder,900,FALSE,플레이어 상태에 따라 노출할 특가 후보입니다. 현재는 비활성입니다.,stage>=2;currency:softCurrency>=700;acquired:fish_anchovy>=1
+shop_starter_cooking_pack_001,pearl,prismPearl,80,box_starter_cooking_pack,1,stage>=1,520,TRUE,초반 요리 재료와 10분 가속권 1개를 묶는 스타터 패키지 preview 상품입니다. 구매와 상자 개봉은 서버 검증 응답 기준으로 처리합니다.,stage>=1
+shop_boat_upgrade_pack_001,pearl,prismPearl,120,box_boat_upgrade_pack,1,bm_placeholder,530,FALSE,배 강화에 필요한 공통 강화재료를 보조하는 패키지 후보입니다.,stage>=2;currency:prismPearl>=1
+shop_stage3_push_pack_001,pearl,prismPearl,180,box_stage3_push_pack,1,bm_placeholder,540,FALSE,3지역 진입 전 병목을 완화하는 저가 패키지 후보입니다.,stage>=2;currency:prismPearl>=1

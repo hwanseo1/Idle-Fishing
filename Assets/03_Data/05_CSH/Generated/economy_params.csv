@@ -1,0 +1,47 @@
+key,value,valueType,scope,isEnabled,notes
+starting_soft_currency,2000,int64,fixture,TRUE,상점과 가방 테스트용 시작 골드입니다. 실제 런칭값은 재검증이 필요합니다.
+default_fish_max_stack,999,int,inventory,TRUE,물고기 기본 스택 한도입니다.
+default_material_max_stack,999,int,inventory,TRUE,재료 기본 스택 한도입니다.
+default_food_max_stack,99,int,inventory,TRUE,요리 결과물 기본 스택 한도입니다.
+default_ticket_max_stack,99,int,inventory,TRUE,티켓 기본 스택 한도입니다.
+initial_bag_capacity,30,int,inventory,TRUE,초기 가방 슬롯 수입니다.
+bag_capacity_step,5,int,inventory,TRUE,가방 확장 1회당 늘어나는 슬롯 수입니다.
+bag_capacity_max,120,int,inventory,TRUE,가방 슬롯 확장의 임시 상한입니다.
+bag_capacity_gold_cost_base,500,int64,inventory,TRUE,가방 확장 기본 골드 비용 후보입니다.
+fish_grade_max,3,int,fish,TRUE,Target star grade count.
+cooking_grade_max,3,int,cooking,TRUE,Target cooking grade count.
+recipe_active_limit,1,int,cooking,TRUE,초기에는 동시에 진행할 수 있는 요리를 1개로 둡니다.
+initial_cooking_slots,1,int,cooking,TRUE,초기 요리 슬롯 수입니다.
+max_cooking_slots,3,int,cooking,TRUE,향후 확장 가능한 요리 슬롯 상한 후보입니다.
+cooking_slot_gold_cost_base,1000,int64,cooking,TRUE,요리 슬롯 확장 기본 골드 비용 후보입니다.
+speedup_ticket_seconds,600,int,cooking,TRUE,10분 가속권의 기준 시간입니다. BM 밸런스는 별도 검증합니다.
+instant_complete_ticket_enabled,FALSE,bool,cooking,FALSE,즉시 완료권은 대기 제거형 BM 검증 전까지 비활성입니다.
+offline_reward_cap_minutes,480,int,offline,FALSE,Disabled until offline flow is owned.
+gold_gacha_enabled,FALSE,bool,shop,FALSE,골드 모집은 PSY/YWJ 구현 합의 전까지 실행하지 않는 보류 기능입니다.
+premium_gacha_enabled,FALSE,bool,shop,FALSE,진주/프리미엄 모집은 결제와 서버 지급 흐름 합의 전까지 실행하지 않는 보류 기능입니다.
+crew_gacha_gold_reward_policy,crew_specific_fragments_with_low_full_crew,string,crew_gacha,TRUE,골드 모집은 선원별 조각을 기본으로 주고 낮은 확률로 R/SR 완성 선원만 허용하는 정책입니다.
+crew_gacha_gold_single_cost,800,int64,crew_gacha,TRUE,골드 모집 1회 임시 비용입니다. 실행 플래그가 꺼져 있어 정책 참고값입니다.
+crew_gacha_gold_ten_cost,8000,int64,crew_gacha,TRUE,골드 모집 10회 임시 비용입니다. 완성 선원 보장 대신 조각 누적을 기본으로 둡니다.
+crew_gacha_gold_fragment_id_pattern,fragment_Crew_*,string,crew_gacha,TRUE,골드 모집 기본 보상은 fragment_Crew_* 형식의 선원별 조각 ID를 사용합니다. 예: fragment_Crew_Rookie_Sailor.
+crew_gacha_gold_fragment_grade_scope,R_SR_only,string,crew_gacha,TRUE,골드 모집 조각 풀은 R/SR 선원까지만 엽니다. SSR 조각은 프리미엄/패키지 영역에 둡니다.
+crew_gacha_gold_full_crew_chance_pct,2.5,decimal,crew_gacha,TRUE,골드 모집에서 완성 선원이 바로 나올 후보 확률입니다. 2~3% 범위의 중앙값으로 둡니다.
+crew_gacha_gold_full_crew_grade_scope,R_SR_only,string,crew_gacha,TRUE,골드 모집 완성 선원은 R/SR까지만 허용하고 SSR은 제외합니다.
+crew_gacha_gold_ten_full_crew_guarantee,FALSE,bool,crew_gacha,TRUE,골드 10뽑당 완성 선원 1명 보장은 제거합니다.
+crew_gacha_fragments_per_gold_draw,1,int,crew_gacha,TRUE,골드 모집 1회당 지급할 기본 선원 조각 수입니다.
+crew_gacha_fragments_required,30,int,crew_gacha,TRUE,R 등급 선원 조각 교환 기준값입니다. 등급별 세부값은 아래 R/SR/SSR 항목을 우선합니다.
+crew_gacha_fragments_required_r,30,int,crew_gacha,TRUE,R 등급 선원 1명 교환에 필요한 선원별 조각 수입니다.
+crew_gacha_fragments_required_sr,60,int,crew_gacha,TRUE,SR 등급 선원 1명 교환에 필요한 선원별 조각 수입니다.
+crew_gacha_fragments_required_ssr,120,int,crew_gacha,TRUE,SSR 등급 선원 1명 교환에 필요한 선원별 조각 수입니다.
+crew_gacha_common_fragment_item_id,ticket_crew_fragment_basic,string,crew_gacha,FALSE,공용 선원 조각은 골드 모집 기본 보상에서 제외하고 패키지/이벤트/보상 후보로만 둡니다.
+crew_gacha_prism_reward_policy,full_crew_with_fragment_fallback,string,crew_gacha,TRUE,진주/프리미엄 모집은 완성 선원 지급을 기본으로 하고 중복/보정 보상은 fragment_Crew_* 조각 또는 공용 조각 후보로 돌리는 임시 정책입니다.
+crew_gacha_prism_single_cost,120,int64,crew_gacha,TRUE,진주/프리미엄 모집 1회 임시 비용입니다.
+crew_gacha_prism_ten_cost,1080,int64,crew_gacha,TRUE,진주/프리미엄 모집 10회 임시 비용입니다. 1회 대비 10% 할인 기준입니다.
+crew_gacha_prism_ticket_item_id,ticket_recruit_premium,string,crew_gacha,TRUE,진주/프리미엄 모집권으로 사용할 itemId입니다.
+crew_gacha_prism_pity_count,50,int,crew_gacha,FALSE,천장 후보값입니다. PSY/YWJ 가챠 저장 구조 확정 전까지 비활성 참고값입니다.
+bm_placeholder_enabled,FALSE,bool,shop,FALSE,결제와 광고 SDK가 붙기 전까지 BM 상품은 기본 비활성입니다.
+currency_exchange_enabled,FALSE,bool,shop,FALSE,Currency exchange service is guarded until final balance/BM policy is approved.
+kmb_display_enabled,TRUE,bool,display,TRUE,KMB compact number display enabled for large values.
+server_catalog_version,fisher_server_catalog_v0.1_20260615,string,server,TRUE,팀장 서버 선등록용 카탈로그 버전입니다.
+cooking_crew_exp_policy,fish_gold_vs_crew_growth,string,cooking,TRUE,요리는 판매 골드와 선원 성장의 선택으로 둡니다.
+boat_upgrade_material_policy,tiered_upgrade_materials,string,equipment,TRUE,배와 장비는 mat_upgrade_common/mat_upgrade_sturdy/mat_upgrade_refined 3단계 강화재료를 사용합니다.
+paid_bundle_policy,disabled_until_payment_flow,string,shop,FALSE,저가 패키지는 ID만 선등록하고 결제 흐름 전까지 비활성입니다.

@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.1.0",
+  "recommendedVersion": "0.1.0",
+  "maintenance": true,
+  "maintenanceMessage": "서버 점검 중입니다.",
+  "balance": [
+    { "key": "goldMultiplier", "value": "2.0" }
+  ]
+}

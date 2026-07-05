@@ -1,0 +1,18 @@
+recipeId,inputItemId,inputCount,inputItemId2,inputCount2,durationSec,outputItemId,outputCount,crewExp,unlockCondition,isEnabled,notes
+recipe_grilled_anchovy_g1,fish_anchovy,1,fish_saury,1,60,food_grilled_anchovy,1,5,stage>=1,TRUE,초반 요리 튜토리얼용 기본 레시피입니다.
+recipe_grilled_mackerel_g1,fish_mackerel,1,fish_anchovy,1,90,food_grilled_mackerel,1,6,stage>=1,TRUE,초반 대기열과 재료 소모 확인용 레시피입니다.
+recipe_saury_stew_g1,fish_saury,1,fish_anchovy,1,75,food_saury_stew,1,4,stage>=1,TRUE,빠른 반복 제작으로 요리 흐름을 확인하는 레시피입니다.
+recipe_flatfish_soup_g2,fish_flatfish,1,fish_saury,1,240,food_flatfish_soup,1,12,stage>=2,TRUE,골드 일부를 포기하고 선원 경험치를 얻는 초반 선택지입니다.
+recipe_hairtail_grill_g2,fish_hairtail,1,fish_mackerel,1,300,food_hairtail_grill,1,14,stage>=2,TRUE,스테이지2 진입 후 성장 선택을 만드는 레시피입니다.
+recipe_rockfish_stew_g2,fish_rockfish,1,fish_filefish,1,360,food_rockfish_stew,1,16,stage>=2,TRUE,스테이지2 일반 어종을 요리 성장으로 연결합니다.
+recipe_croaker_octopus_grill_g2,fish_croaker,1,fish_octopus,1,420,food_croaker_octopus_grill,1,26,stage>=2,TRUE,조기와 낙지를 묶어 선원 경험치 효율을 비교하는 레시피입니다.
+recipe_yellowtail_sashimi_g2,fish_yellowtail,1,fish_seabass,1,540,food_yellowtail_sashimi,1,45,stage>=2,TRUE,스테이지2 후반 고가 어종을 성장 선택지로 바꿉니다.
+recipe_cuttlefish_amberjack_hotpot_g2,fish_cuttlefish,1,fish_amberjack,1,720,food_cuttlefish_amberjack_hotpot,1,75,stage>=2,TRUE,희귀도 보정 이후 고가 어종 기대값을 요리와 비교합니다.
+recipe_sunfish_steak_g2,fish_sunfish,1,fish_croaker,1,900,food_sunfish_steak,1,80,stage>=2,TRUE,스테이지2 끝 구간에서 큰 보상감을 주는 후보 레시피입니다.
+recipe_swordfish_platter_g3,fish_swordfish,1,fish_seabass,1,1200,food_swordfish_platter,1,160,stage>=3,TRUE,지역3 진입 이후 전설 어종의 쓰임을 보여주는 레시피입니다.
+recipe_moray_scorpion_soup_g3,fish_moray,1,fish_scorpionfish,1,600,food_moray_scorpion_soup,1,24,stage>=3,TRUE,지역3 초입 일반 어종을 요리 루프에 연결합니다.
+recipe_oarfish_kingcrab_roast_g3,fish_oarfish,1,fish_kingcrab,1,900,food_oarfish_kingcrab_roast,1,70,stage>=3,TRUE,지역3 중반 재료 조합 후보입니다.
+recipe_deepsea_manta_curry_g3,fish_deepseashrimp,1,fish_manta,1,1200,food_deepsea_manta_curry,1,95,stage>=3,TRUE,심해 어종의 고가 판매와 선원 성장 선택을 비교합니다.
+recipe_coelacanth_greatwhite_feast_g3,fish_coelacanth,1,fish_greatwhite,1,1800,food_coelacanth_greatwhite_feast,1,220,stage>=3,TRUE,지역3 보스 전후의 큰 성장 목표 후보입니다.
+recipe_giant_squid_dragonfish_feast,fish_giant_squid,1,fish_dragonfish,1,2400,food_giant_squid_dragonfish_feast,1,360,stage>=3,FALSE,알파 이후 검증용으로 보류한 최상위 요리 후보입니다.
+recipe_bluefin_tuna_platter,fish_bluefinTuna,1,fish_flatfish,1,1200,food_bluefin_tuna_platter,2,80,stage>=3,FALSE,기존 참다랑어 요리 보류안입니다.

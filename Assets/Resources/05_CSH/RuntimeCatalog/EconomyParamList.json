@@ -1,0 +1,278 @@
+{
+  "bag_capacity_gold_cost_base": {
+    "value": "500",
+    "valueType": "int64",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "bag_capacity_max": {
+    "value": "120",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "bag_capacity_step": {
+    "value": "5",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "bm_placeholder_enabled": {
+    "value": "FALSE",
+    "valueType": "bool",
+    "scope": "shop",
+    "enabled": false
+  },
+  "boat_upgrade_material_policy": {
+    "value": "tiered_upgrade_materials",
+    "valueType": "string",
+    "scope": "equipment",
+    "enabled": true
+  },
+  "cooking_crew_exp_policy": {
+    "value": "fish_gold_vs_crew_growth",
+    "valueType": "string",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "cooking_grade_max": {
+    "value": "3",
+    "valueType": "int",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "cooking_slot_gold_cost_base": {
+    "value": "1000",
+    "valueType": "int64",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "crew_gacha_common_fragment_item_id": {
+    "value": "ticket_crew_fragment_basic",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": false
+  },
+  "crew_gacha_fragments_per_gold_draw": {
+    "value": "1",
+    "valueType": "int",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_fragments_required": {
+    "value": "30",
+    "valueType": "int",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_fragments_required_r": {
+    "value": "30",
+    "valueType": "int",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_fragments_required_sr": {
+    "value": "60",
+    "valueType": "int",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_fragments_required_ssr": {
+    "value": "120",
+    "valueType": "int",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_fragment_grade_scope": {
+    "value": "R_SR_only",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_fragment_id_pattern": {
+    "value": "fragment_Crew_*",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_full_crew_chance_pct": {
+    "value": "2.5",
+    "valueType": "decimal",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_full_crew_grade_scope": {
+    "value": "R_SR_only",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_reward_policy": {
+    "value": "crew_specific_fragments_with_low_full_crew",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_single_cost": {
+    "value": "800",
+    "valueType": "int64",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_ten_cost": {
+    "value": "8000",
+    "valueType": "int64",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_gold_ten_full_crew_guarantee": {
+    "value": "FALSE",
+    "valueType": "bool",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_prism_pity_count": {
+    "value": "50",
+    "valueType": "int",
+    "scope": "crew_gacha",
+    "enabled": false
+  },
+  "crew_gacha_prism_reward_policy": {
+    "value": "full_crew_with_fragment_fallback",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_prism_single_cost": {
+    "value": "120",
+    "valueType": "int64",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_prism_ten_cost": {
+    "value": "1080",
+    "valueType": "int64",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "crew_gacha_prism_ticket_item_id": {
+    "value": "ticket_recruit_premium",
+    "valueType": "string",
+    "scope": "crew_gacha",
+    "enabled": true
+  },
+  "currency_exchange_enabled": {
+    "value": "FALSE",
+    "valueType": "bool",
+    "scope": "shop",
+    "enabled": false
+  },
+  "default_fish_max_stack": {
+    "value": "999",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "default_food_max_stack": {
+    "value": "99",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "default_material_max_stack": {
+    "value": "999",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "default_ticket_max_stack": {
+    "value": "99",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "fish_grade_max": {
+    "value": "3",
+    "valueType": "int",
+    "scope": "fish",
+    "enabled": true
+  },
+  "gold_gacha_enabled": {
+    "value": "FALSE",
+    "valueType": "bool",
+    "scope": "shop",
+    "enabled": false
+  },
+  "initial_bag_capacity": {
+    "value": "30",
+    "valueType": "int",
+    "scope": "inventory",
+    "enabled": true
+  },
+  "initial_cooking_slots": {
+    "value": "1",
+    "valueType": "int",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "instant_complete_ticket_enabled": {
+    "value": "FALSE",
+    "valueType": "bool",
+    "scope": "cooking",
+    "enabled": false
+  },
+  "kmb_display_enabled": {
+    "value": "TRUE",
+    "valueType": "bool",
+    "scope": "display",
+    "enabled": true
+  },
+  "max_cooking_slots": {
+    "value": "3",
+    "valueType": "int",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "offline_reward_cap_minutes": {
+    "value": "480",
+    "valueType": "int",
+    "scope": "offline",
+    "enabled": false
+  },
+  "paid_bundle_policy": {
+    "value": "disabled_until_payment_flow",
+    "valueType": "string",
+    "scope": "shop",
+    "enabled": false
+  },
+  "premium_gacha_enabled": {
+    "value": "FALSE",
+    "valueType": "bool",
+    "scope": "shop",
+    "enabled": false
+  },
+  "recipe_active_limit": {
+    "value": "1",
+    "valueType": "int",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "server_catalog_version": {
+    "value": "fisher_server_catalog_v0.1_20260615",
+    "valueType": "string",
+    "scope": "server",
+    "enabled": true
+  },
+  "speedup_ticket_seconds": {
+    "value": "600",
+    "valueType": "int",
+    "scope": "cooking",
+    "enabled": true
+  },
+  "starting_soft_currency": {
+    "value": "2000",
+    "valueType": "int64",
+    "scope": "fixture",
+    "enabled": true
+  }
+}

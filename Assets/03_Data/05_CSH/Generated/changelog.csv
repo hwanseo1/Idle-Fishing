@@ -1,0 +1,9 @@
+date,owner,changeType,summary,risk,verified
+2026-06-05,CSH,p0_scope_trim,Trimmed demo data to one fish species with 1-3 grade discovery and one recipe.,Google Sheet source must be updated before CSV sync is used again.,TRUE
+2026-06-08,Fisher,sheet_snapshot_sync,Updated generated CSV snapshot from the balance Google Sheet sample tabs.,Live Sheet was read-only and not modified.,TRUE
+2026-06-08,Fisher,contract_decision,Kept collection_rewards as the runtime reward table contract and deferred Special instance rows.,Sheet tab may need rename from codex_rewards to collection_rewards.,TRUE
+2026-06-08,Fisher,team_fixture_v0_runtime_subset,Expanded local generated CSV to reviewed Team Fixture v0 runtime-supported rows.,Live Sheet still needs manual/apply sync after user review.,TRUE
+2026-06-09,Fisher,next_gap_checkpoint_1,Added disabled placeholder rows and economy params for bag capacity cooking slots tickets exchange and BM HOLD contracts.,Runtime service support now has guarded P0 coverage; final balance and BM policy remain HOLD.,TRUE
+2026-06-12,Fisher,shop_visibility_conditions,Added player-state visibility conditions for Pearl Coin and Special placeholder shop rows.,Rows remain disabled or guarded; this is product exposure foundation not BM execution.,TRUE
+2026-06-12,Fisher,boat_collection_link,Added JHS boat ids as enabled Boat collection items and sync unlocked boat skills into collection discovery.,Crew collection remains HOLD until server/JSON crew id contract is finalized.,TRUE
+2026-06-12,Fisher,server_id_mapping_contract,Added YWJ inventory int-string map and RMS stageId map for server bridge preparation.,Runtime PlayerData mutation and stage condition replacement remain HOLD until server contract is finalized.,TRUE

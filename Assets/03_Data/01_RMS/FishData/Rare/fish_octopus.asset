@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de1ac90b008d58148a9062d7a38fe45b, type: 3}
+  m_Name: fish_octopus
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Data.FishData
+  _fishId: fish_octopus
+  _displayName: "\uB099\uC9C0"
+  _icon: {fileID: -1812737501, guid: 5c2a36c975a18cb499194af0d423a8bf, type: 3}
+  _description: "\uAC2F\uBC8C \uC18D\uC758 \uC0B0\uC0BC\uC774\uC790 \uC9C0\uCE5C
+    \uC18C\uB3C4 \uBC8C\uB5A1 \uC77C\uC73C\uD0A4\uB294 \uAE30\uB825\uC758 \uC544\uC774\uCF58!
+    \uC601\uB9AC\uD558\uAC8C \uB3CC\uC774\uB098 \uC870\uAC1C\uAECD\uB370\uAE30\uB97C
+    \uB4E4\uC5B4 \uC62C\uB824 \uC81C \uBAB8\uC744 \uC228\uAE30\uB294 \uBC14\uB2E4\uC758
+    \uC704\uC7A5\uC220\uC0AC\uC785\uB2C8\uB2E4."
+  _rarity: 1
+  _allowedStageIds: []
+  _spawnWeight: 8
+  _manualDifficulty: 0.52
+  _sellPriceGold: 520
+  _usableAsIngredient: 1
+  _codexRewardGroupId: 

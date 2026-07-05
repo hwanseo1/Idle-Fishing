@@ -1,0 +1,4 @@
+productId,cashAmount,prismPearlAmount,sortOrder,isEnabled,notes
+cash_prism_small_001,1000,100,900,TRUE,내부 결제 테스트용 Cash를 소비해 Prism Pearl 100개를 지급하는 임시 상품입니다. Cash는 UI에 표시하지 않습니다.
+cash_prism_medium_001,5000,550,901,TRUE,내부 결제 테스트용 Cash를 소비해 Prism Pearl 550개를 지급하는 임시 상품입니다. Cash는 UI에 표시하지 않습니다.
+cash_prism_large_001,10000,1200,902,TRUE,내부 결제 테스트용 Cash를 소비해 Prism Pearl 1200개를 지급하는 임시 상품입니다. Cash는 UI에 표시하지 않습니다.

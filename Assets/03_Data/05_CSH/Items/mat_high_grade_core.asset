@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8afbcc4151d48b39d61361589479e47, type: 3}
+  m_Name: mat_high_grade_core
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.ItemData
+  _itemId: mat_high_grade_core
+  _displayName: "\uACE0\uAE09 \uAC15\uD654 \uCF54\uC5B4"
+  _icon: {fileID: 21300000, guid: 51a5e30efb1e4b43a93fda3d2251fc6a, type: 3}
+  _description: "\uC54C\uD30C \uC774\uD6C4 \uACE0\uAE09 \uAC15\uD654\uC6A9 \uB2E8\uC77C
+    \uCF54\uC5B4 \uD6C4\uBCF4\uC785\uB2C8\uB2E4. \uD604\uC7AC\uB294 \uBE44\uD65C\uC131\uC785\uB2C8\uB2E4."
+  _category: 7
+  _rarity: 1
+  _sourceType: Reward
+  _stackable: 1
+  _maxStack: 999
+  _sellPriceGold: 0
+  _sample: 0
+  _enabled: 0

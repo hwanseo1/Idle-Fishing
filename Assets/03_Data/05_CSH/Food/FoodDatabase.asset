@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c062994d4f67f0f4ba5f5558136e5e4e, type: 3}
+  m_Name: FoodDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::Fisher.Data.FoodDatabase
+  _foods:
+  - {fileID: 11400000, guid: bd2b82b65d1a47168dfdef6a54d2f8ae, type: 2}
+  - {fileID: 11400000, guid: 60005cbc22324b8f9cc9e0bb71f7322e, type: 2}
+  - {fileID: 11400000, guid: 95acf2b82d9c4135a62416da5b626291, type: 2}
+  - {fileID: 11400000, guid: 8c73971aa5bd4928af2e18735db0c2e9, type: 2}
+  - {fileID: 11400000, guid: 048f453bf62449e197ccb0c500d66e37, type: 2}
+  - {fileID: 11400000, guid: 901ecec3cc7d4ce38f75bd53c977f424, type: 2}
+  - {fileID: 11400000, guid: c71d4332a0964b65939f9c2d9648743c, type: 2}
+  - {fileID: 11400000, guid: efad78516d51434abb63eb650708f488, type: 2}
+  - {fileID: 11400000, guid: 62f15f746c8f4f988e5fb5e804e42c89, type: 2}
+  - {fileID: 11400000, guid: 9dfe0dbd0dfd4328b289767b3f2b10c6, type: 2}
+  - {fileID: 11400000, guid: 376b6f7c1b614054a7eab45923ded767, type: 2}
+  - {fileID: 11400000, guid: 0764a4adcbd1483e893cb07584deaa01, type: 2}
+  - {fileID: 11400000, guid: 81a34ea0cd24495a8dfad9c6abb9b334, type: 2}
+  - {fileID: 11400000, guid: cd600739969d441aacd5a96c0b1cdce2, type: 2}
+  - {fileID: 11400000, guid: 8d341d2807e94d8d871b59212ecdfbbd, type: 2}
+  - {fileID: 11400000, guid: e7f66980bf0443098810e05c85b40858, type: 2}
+  - {fileID: 11400000, guid: ac1d94716fc64a5980fd3e84a46b0e10, type: 2}

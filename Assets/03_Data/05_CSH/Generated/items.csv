@@ -1,0 +1,76 @@
+itemId,displayNameKo,category,rarity,sourceType,sellPrice,stackable,maxStack,cookTag,sortOrder,crewExp,isEnabled,notes
+fish_anchovy,멸치,Fish,Common,Fishing,50,TRUE,999,fish_small,100,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_mackerel,고등어,Fish,Common,Fishing,90,TRUE,999,fish_medium,110,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_flatfish,광어,Fish,Uncommon,Fishing,450,TRUE,999,fish_flat,120,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_hairtail,갈치,Fish,Uncommon,Fishing,380,TRUE,999,fish_long,130,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_saury,꽁치,Fish,Common,Fishing,70,TRUE,999,fish_small,140,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_squid,오징어,Fish,Uncommon,Fishing,280,TRUE,999,fish_squid,150,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_pollock,생태,Fish,Uncommon,Fishing,320,TRUE,999,fish_medium,160,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_snapper,참돔,Fish,Epic,Fishing,880,TRUE,999,fish_premium,170,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_bluefinTuna,참다랑어,Fish,Epic,Fishing,1200,TRUE,999,fish_premium,180,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_puffer,복어,Fish,Epic,Fishing,950,TRUE,999,fish_premium,190,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_rockfish,볼락,Fish,Common,Fishing,150,TRUE,999,fish_rock,200,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_filefish,쥐치,Fish,Common,Fishing,170,TRUE,999,fish_small,210,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_croaker,조기,Fish,Common,Fishing,200,TRUE,999,fish_medium,220,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_octopus,낙지,Fish,Uncommon,Fishing,520,TRUE,999,fish_octopus,230,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_yellowtail,방어,Fish,Uncommon,Fishing,580,TRUE,999,fish_premium,240,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_seabass,농어,Fish,Uncommon,Fishing,650,TRUE,999,fish_medium,250,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_cuttlefish,갑오징어,Fish,Uncommon,Fishing,720,TRUE,999,fish_squid,260,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_amberjack,부시리,Fish,Epic,Fishing,1400,TRUE,999,fish_premium,270,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_sunfish,개복치,Fish,Epic,Fishing,1800,TRUE,999,fish_large,280,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_swordfish,황새치,Fish,Legendary,Fishing,3500,TRUE,999,fish_legendary,290,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_moray,곰치,Fish,Common,Fishing,300,TRUE,999,fish_deepsea,300,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_scorpionfish,쏨뱅이,Fish,Common,Fishing,340,TRUE,999,fish_rock,310,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_oarfish,산갈치,Fish,Uncommon,Fishing,900,TRUE,999,fish_long,320,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_kingcrab,킹크랩,Fish,Uncommon,Fishing,1100,TRUE,999,fish_crab,330,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_deepseashrimp,심해새우,Fish,Uncommon,Fishing,1200,TRUE,999,fish_crustacean,340,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_manta,만타가오리,Fish,Uncommon,Fishing,1400,TRUE,999,fish_large,350,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_coelacanth,실러캔스,Fish,Epic,Fishing,2800,TRUE,999,fish_deepsea,360,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_greatwhite,백상아리,Fish,Epic,Fishing,3200,TRUE,999,fish_premium,370,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_giant_squid,대왕오징어,Fish,Epic,Fishing,3800,TRUE,999,fish_squid,380,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+fish_dragonfish,드래곤피시,Fish,Legendary,Fishing,6000,TRUE,999,fish_legendary,390,,TRUE,RMS FishData 기준으로 등록한 낚시 획득 물고기입니다.
+mat_upgrade_common,기초 강화재료,UpgradeMaterial,Common,Shop,15,TRUE,999,upgrade,530,,TRUE,초반 장비와 배 강화에 쓰는 기본 강화재료입니다. 상점 구매가보다 낮은 회수용 판매가만 둡니다.
+mat_upgrade_sturdy,튼튼한 강화재료,UpgradeMaterial,Uncommon,Shop,50,TRUE,999,upgrade,535,,TRUE,중반 장비와 배 강화에 쓰는 상위 강화재료입니다. 상점 구매가보다 낮은 회수용 판매가만 둡니다.
+mat_upgrade_refined,정제 강화재료,UpgradeMaterial,Rare,Shop,150,TRUE,999,upgrade,538,,TRUE,후반 장비와 배 강화에 쓰는 고급 전 단계 강화재료입니다. 상점 구매가보다 낮은 회수용 판매가만 둡니다.
+mat_high_grade_core,고급 강화 코어,HighGradeMaterial,Rare,Reward,0,TRUE,999,upgrade,540,,FALSE,알파 이후 고급 강화용 단일 코어 후보입니다. 현재는 비활성입니다.
+food_grilled_anchovy,멸치구이,Food,Common,Cooking,105,TRUE,99,meal,600,5,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_grilled_mackerel,고등어구이,Food,Common,Cooking,125,TRUE,99,meal,610,6,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_saury_stew,꽁치조림,Food,Common,Cooking,105,TRUE,99,meal,620,4,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_flatfish_soup,광어탕,Food,Uncommon,Cooking,425,TRUE,99,meal,630,12,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_hairtail_grill,갈치구이,Food,Uncommon,Cooking,385,TRUE,99,meal,640,14,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_rockfish_stew,볼락매운탕,Food,Common,Cooking,280,TRUE,99,meal,650,16,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_croaker_octopus_grill,조기 낙지구이,Food,Uncommon,Cooking,590,TRUE,99,meal,660,26,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_yellowtail_sashimi,방어회,Food,Uncommon,Cooking,1010,TRUE,99,meal,670,45,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_cuttlefish_amberjack_hotpot,갑오징어 부시리 전골,Food,Epic,Cooking,1610,TRUE,99,meal,680,75,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_sunfish_steak,개복치스테이크,Food,Epic,Cooking,1520,TRUE,99,meal,690,80,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_swordfish_platter,황새치 한상,Food,Legendary,Cooking,3070,TRUE,99,meal,700,160,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_moray_scorpion_soup,곰치쏨뱅이탕,Food,Common,Cooking,565,TRUE,99,meal,710,24,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_oarfish_kingcrab_roast,산갈치 킹크랩구이,Food,Uncommon,Cooking,1640,TRUE,99,meal,720,70,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_deepsea_manta_curry,심해새우 만타 카레,Food,Uncommon,Cooking,2130,TRUE,99,meal,730,95,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_coelacanth_greatwhite_feast,실러캔스 백상아리 만찬,Food,Epic,Cooking,4560,TRUE,99,meal,740,220,TRUE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_giant_squid_dragonfish_feast,대왕오징어 드래곤피시 만찬,Food,Legendary,Cooking,7250,TRUE,99,meal,750,360,FALSE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+food_bluefin_tuna_platter,참다랑어 한상,Food,Epic,Cooking,625,TRUE,99,meal,760,80,FALSE,요리 결과물입니다. 판매보다 선원 경험치 선택을 보이게 하는 값입니다.
+ticket_basic,일반 티켓,Ticket,Common,Codex,0,TRUE,99,ticket,800,,TRUE,보상과 상점 후보에 쓰는 일반 티켓입니다.
+ticket_speedup_10m,10분 가속권,Ticket,Uncommon,BM,0,TRUE,99,ticket,810,,TRUE,요리 대기시간을 줄이는 10분 가속권입니다.
+ticket_instant_complete,즉시 완료권,Ticket,Rare,BM,0,TRUE,99,ticket,820,,FALSE,즉시 완료권 후보입니다. BM 확정 전까지 비활성입니다.
+ticket_recruit_basic,모집 티켓,Ticket,Rare,Recruit,0,TRUE,99,ticket,830,,TRUE,선원 모집 기본권입니다. 골드 모집은 선원별 조각 중심이고 프리미엄 모집은 완성 선원 중심으로 분리합니다.
+ticket_crew_fragment_basic,공용 선원 조각,Ticket,Common,Recruit,0,TRUE,999,crew_fragment,831,,FALSE,골드 모집 기본 보상에서는 제외합니다. 패키지/이벤트/보상 후보로만 남기는 공용 조각 ID입니다.
+fragment_Crew_Navigator_Jun,항해사 준 조각,Ticket,Common,Recruit,0,TRUE,999,crew_fragment,832,,TRUE,골드 모집 R 등급 조각 후보입니다. 30개를 모으면 Crew_Navigator_Jun 지급 루트로 연결합니다.
+fragment_Crew_Captain_Max,대장 맥스 조각,Ticket,Common,Recruit,0,TRUE,999,crew_fragment,833,,TRUE,골드 모집 R 등급 조각 후보입니다. 30개를 모으면 Crew_Captain_Max 지급 루트로 연결합니다.
+fragment_Crew_Dasol,다솔 조각,Ticket,Common,Recruit,0,TRUE,999,crew_fragment,834,,TRUE,골드 모집 R 등급 조각 후보입니다. 30개를 모으면 Crew_Dasol 지급 루트로 연결합니다.
+fragment_Crew_Rookie_Sailor,초보 선원 조각,Ticket,Common,Recruit,0,TRUE,999,crew_fragment,835,,TRUE,골드 모집 R 등급 조각 후보입니다. 30개를 모으면 Crew_Rookie_Sailor 지급 루트로 연결합니다.
+fragment_Crew_Veteran_Angler,노련한 낚시꾼 조각,Ticket,Rare,Recruit,0,TRUE,999,crew_fragment,836,,TRUE,골드 모집 SR 등급 조각 후보입니다. 60개를 모으면 Crew_Veteran_Angler 지급 루트로 연결합니다.
+fragment_Crew_Chef_Lin,요리사 린 조각,Ticket,Rare,Recruit,0,TRUE,999,crew_fragment,837,,TRUE,골드 모집 SR 등급 조각 후보입니다. 60개를 모으면 Crew_Chef_Lin 지급 루트로 연결합니다.
+fragment_Crew_Veteran_Navigator,베테랑 항해사 조각,Ticket,Rare,Recruit,0,TRUE,999,crew_fragment,838,,TRUE,골드 모집 SR 등급 조각 후보입니다. 60개를 모으면 Crew_Veteran_Navigator 지급 루트로 연결합니다.
+fragment_Crew_OldMan_And_Sea,노인과 바다 조각,Ticket,Epic,Recruit,0,TRUE,999,crew_fragment,839,,TRUE,SSR 선원 조각 후보입니다. 골드 모집 기본 풀에서는 제외하고 프리미엄/패키지 쪽에 둡니다.
+fragment_Crew_Moby_Dick,모비 딕 조각,Ticket,Epic,Recruit,0,TRUE,999,crew_fragment,840,,TRUE,SSR 선원 조각 후보입니다. 골드 모집 기본 풀에서는 제외하고 프리미엄/패키지 쪽에 둡니다.
+fragment_Crew_Master_Angler,강태공 조각,Ticket,Epic,Recruit,0,TRUE,999,crew_fragment,841,,TRUE,SSR 선원 조각 후보입니다. 골드 모집 기본 풀에서는 제외하고 프리미엄/패키지 쪽에 둡니다.
+ticket_recruit_premium,고급 모집권,Ticket,Rare,Recruit,0,TRUE,99,ticket,845,,TRUE,진주 모집 1회에 쓰는 고급 모집권 후보입니다. 완성 선원 지급과 상위 확률은 PSY 가챠 쪽에서 처리합니다.
+box_basic_reward,재료 선택 상자,Box,Rare,Reward,0,TRUE,99,box,840,,FALSE,재료 선택 상자 후보입니다. 상자 개봉 로직 확정 전까지 비활성입니다.
+ticket_choice_basic,선택권,Ticket,Rare,Reward,0,TRUE,99,ticket,850,,FALSE,선택권 후보입니다. 카테고리는 Ticket으로 통합하고 선택 보상 구조 확정 전까지 비활성입니다.
+box_starter_cooking_pack,초반 요리 스타터 상자,Box,Rare,BM,0,TRUE,99,box,860,,FALSE,초반 요리와 가속권을 묶는 BM 후보 상자입니다.
+box_boat_upgrade_pack,배 강화 준비 상자,Box,Rare,BM,0,TRUE,99,box,870,,FALSE,배와 장비 강화재료를 묶는 BM 후보 상자입니다.
+box_stage3_push_pack,3지역 진입 지원 상자,Box,Rare,BM,0,TRUE,99,box,880,,FALSE,3지역 진입 전 병목 완화용 BM 후보 상자입니다.
+boat_vacuum,진공흡입기,Boat,Rare,Equipment,0,FALSE,1,,1000,,TRUE,JHS Boat.asset의 진공흡입기 배 스킬과 맞춘 수집 아이템입니다.
+boat_lamp,야근전등,Boat,Rare,Equipment,0,FALSE,1,,1010,,TRUE,JHS Boat.asset의 야근전등 배 스킬과 맞춘 수집 아이템입니다.
+boat_penguin,펭귄,Boat,Rare,Equipment,0,FALSE,1,,1020,,TRUE,JHS Boat.asset의 펭귄 배 스킬과 맞춘 수집 아이템입니다.

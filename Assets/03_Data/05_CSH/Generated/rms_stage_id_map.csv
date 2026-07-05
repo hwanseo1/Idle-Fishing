@@ -1,0 +1,20 @@
+stageOrder,stageId,worldId,isBossStage,bossId,nextStageId,isRuntimeLinked,isEnabled,notes
+1,1-1,1,FALSE,,1-2,FALSE,TRUE,RMS StageData string id bridge for server progression.
+2,1-2,1,FALSE,,1-3,FALSE,TRUE,RMS StageData string id bridge for server progression.
+3,1-3,1,FALSE,,1-4,FALSE,TRUE,RMS StageData string id bridge for server progression.
+4,1-4,1,FALSE,,1-5,FALSE,TRUE,RMS StageData string id bridge for server progression.
+5,1-5,1,FALSE,,1-boss,FALSE,TRUE,RMS StageData string id bridge for server progression.
+6,1-boss,1,TRUE,boss_ancient_octopus,2-1,FALSE,TRUE,Boss gate string id bridge for server progression.
+7,2-1,2,FALSE,,2-2,FALSE,TRUE,RMS StageData string id bridge for server progression.
+8,2-2,2,FALSE,,2-3,FALSE,TRUE,RMS StageData string id bridge for server progression.
+9,2-3,2,FALSE,,2-4,FALSE,TRUE,RMS StageData string id bridge for server progression.
+10,2-4,2,FALSE,,2-5,FALSE,TRUE,RMS StageData string id bridge for server progression.
+11,2-5,2,FALSE,,2-boss,FALSE,TRUE,RMS StageData string id bridge for server progression.
+12,2-boss,2,TRUE,boss_ancient_whale,3-1,FALSE,TRUE,Boss gate string id bridge for server progression.
+13,3-1,3,FALSE,,3-2,FALSE,TRUE,RMS StageData string id bridge for server progression.
+14,3-2,3,FALSE,,3-3,FALSE,TRUE,RMS StageData string id bridge for server progression.
+15,3-3,3,FALSE,,3-4,FALSE,TRUE,RMS StageData string id bridge for server progression.
+16,3-4,3,FALSE,,3-5,FALSE,TRUE,RMS StageData string id bridge for server progression.
+17,3-5,3,FALSE,,3-boss,FALSE,TRUE,RMS StageData string id bridge for server progression.
+18,3-boss,3,TRUE,boss_abyssal_lionsmane,,FALSE,TRUE,Boss gate string id bridge for server progression.
+19,multiplay_arena,0,FALSE,,,FALSE,TRUE,RMS multiplayer arena bridge for non-progression server checks.

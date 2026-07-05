@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854ac8f39c7b480469fcbcf705fb638e, type: 3}
+  m_Name: ItemIconRegistry
+  m_EditorClassIdentifier: Assembly-CSharp::RMS.Multiplay.ItemIconRegistry
+  _items:
+  - {fileID: 11400000, guid: d87a9263615ccda489e332088f35a6a0, type: 2}
+  - {fileID: 11400000, guid: 0feb126bed4dc0242a3b276538380309, type: 2}
+  - {fileID: 11400000, guid: c0babacb4887ba04398b0887e1816fb6, type: 2}
+  - {fileID: 11400000, guid: 3a5d9f8fbe32ce84dbdbbb68affa3d49, type: 2}
+  - {fileID: 11400000, guid: da5922863b1515248885ac6d9d5daaf9, type: 2}
+  - {fileID: 11400000, guid: d3cab3cb66e72bc4b9641405e891d3ae, type: 2}
+  - {fileID: 11400000, guid: 248e32ed499d0a34e828d2b1ce1a2769, type: 2}
+  - {fileID: 11400000, guid: 047925138ca5c4d449489192b1d0b631, type: 2}
+  - {fileID: 11400000, guid: c4110e012c928704e89acc49ce1858e7, type: 2}
+  - {fileID: 11400000, guid: 0ff7378a8e91d684aa7b7f2b87a0192b, type: 2}
+  - {fileID: 11400000, guid: 21e1f91cd189404468f39dda4e59d13e, type: 2}
+  - {fileID: 11400000, guid: c909b067a8ad5a845af8491d189724f6, type: 2}
+  - {fileID: 11400000, guid: 89cc4512054d0bb4da04d3ed8c861088, type: 2}
+  - {fileID: 11400000, guid: 5ba8857f39782c44aa940f711ebbd92c, type: 2}
+  - {fileID: 11400000, guid: ffc7e963a79cc4c4886c8f3b5316fe05, type: 2}
+  - {fileID: 11400000, guid: 2c277f703623e8f46964544083ba2ed7, type: 2}
+  - {fileID: 11400000, guid: 133cc5d3757acba46a0d92e1df67a2f1, type: 2}
+  - {fileID: 11400000, guid: be8cebbfdb6919949b1f56ede860b2cd, type: 2}
+  - {fileID: 11400000, guid: f10a44342f5333f4ab4f83e4bbda8a9d, type: 2}
+  - {fileID: 11400000, guid: ab9165d26c1e79644a7643bab81ddfa8, type: 2}
+  - {fileID: 11400000, guid: a29e130b9d9050c4d81224b6f06e8a2e, type: 2}
+  - {fileID: 11400000, guid: 68c9366e261801641b78408e555a5183, type: 2}
+  - {fileID: 11400000, guid: b35f29a32063b58499a3193ab7f0fcaa, type: 2}
+  - {fileID: 11400000, guid: 2c505e1de676d5140b58182dc623ff29, type: 2}
+  - {fileID: 11400000, guid: 384ef4a3382146999ac35b970900da65, type: 2}
+  - {fileID: 11400000, guid: c4e5ae1854ac41a8a8e9406292dfa063, type: 2}
+  - {fileID: 11400000, guid: 9a4d8422336042e4aa59f4a58d3497a0, type: 2}
+  - {fileID: 11400000, guid: 278710a5a0a945cc918d5a298a6331e9, type: 2}
+  - {fileID: 11400000, guid: 0ee4eeecd55d448f9a0fe6fecc654580, type: 2}
+  - {fileID: 11400000, guid: bf4e7089fbc14282a755be7dbdb40be4, type: 2}
+  - {fileID: 11400000, guid: 457f3a87fd504d1db5236b2a1b080515, type: 2}
+  - {fileID: 11400000, guid: d74383b5be6b4720b44fb9e64594e22a, type: 2}
+  - {fileID: 11400000, guid: cf08b4fd7cdf45c9bba1c5653a375773, type: 2}
+  - {fileID: 11400000, guid: 170fae5e950349ab84774b328472b197, type: 2}
+  - {fileID: 11400000, guid: cb99d240819a10a4f85c00687c0d04f7, type: 2}
+  - {fileID: 11400000, guid: cfdbca6fe927ae540beb944f823c5183, type: 2}
+  - {fileID: 11400000, guid: f941e5bebbaa3a44f832e01a448ff82b, type: 2}
+  - {fileID: 11400000, guid: 45db7747bfb3e5c4a9f1e0ec5d1e5779, type: 2}
+  - {fileID: 11400000, guid: 1d60978577ad8cf468fe7336e6ca1dfb, type: 2}
+  - {fileID: 11400000, guid: 32ff000b67fafb9498a609246946f9b5, type: 2}
+  - {fileID: 11400000, guid: 3b33d9fa77a6a4748a932b25f2b0c89f, type: 2}
+  - {fileID: 11400000, guid: 6c6711e5dcfb20f4f9b7576a5614cd41, type: 2}
+  - {fileID: 11400000, guid: 4d02c5714804ef84a93d56688f4faa15, type: 2}
+  - {fileID: 11400000, guid: 5308e8e7f4061fc4894ef5603774c1ea, type: 2}
+  - {fileID: 11400000, guid: ce519b5ff70e323419d83b1031ed8c21, type: 2}
+  _currencyIcons:
+  - currencyCode: GD
+    displayName: "\uACE8\uB4DC"
+    icon: {fileID: 1601160705, guid: bd4f7f42f5ea323488b4923efdd81959, type: 3}
+  - currencyCode: PP
+    displayName: "\uD504\uB9AC\uC998 \uC9C4\uC8FC"
+    icon: {fileID: 684538094, guid: b12758137566ece49a6c15e1b39f6506, type: 3}
+  - currencyCode: PC
+    displayName: "\uD574\uC801 \uC8FC\uD654"
+    icon: {fileID: -330483564, guid: 97a8dfa2b5666f34fb1cfb63f1607074, type: 3}
